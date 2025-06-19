@@ -1,0 +1,23 @@
+name: FuckingNode
+author_id: org.fuckingnode
+slogan: The chaos of maintaining JavaScript projects ends here
+desc: "**FuckingNode is a CLI tool that automates tasks and gives you tools to make JavaScript development less of a f*cking headache.** We can't fix your bugs, but we can automate most headache-giving tasks across all of your NodeJS/Deno/Bun projects and give you a set of tools to make JS development great again."
+icon: null
+screenshot_urls: []
+categories:
+  - PRODUCTIVITY
+  - DEVELOPMENT
+age_rating:
+  money: false
+  social: false
+  substances: false
+  violence: false
+  telemetry: false
+license: GPLv3
+repository: FuckingNode/FuckingNode
+platforms:
+  linux64: std:fuckingnode-linux64
+  linuxARM: std:fuckingnode-linux_arm
+  mac64: std:fuckingnode-macos64
+  macARM: std:fuckingnode-macos_arm
+  win64: std:fuckingnode-win64.exe
