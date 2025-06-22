@@ -1,0 +1,25 @@
+# Highly relevant packages like this one are added by Konbini itself, not their owners.
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+repository: microsoft/vscode
+platforms:
+    linux64: "snap:code"
+    linuxARM: null # doesn't appear in SnapCraft
+    mac64: "brew-k:visual-studio-code"
+    macARM: "brew-k:visual-studio-code"
+    win64: "wget:Microsoft.VisualStudioCode"
+name: "Visual Studio Code"
+slogan: "Code editing, redefined."
+desc: "Microsoft Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Microsoft Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows."
+license: "ProprietaryLicense"
+author_id: "org.Microsoft"
+icon: null
+homepage: "https://code.visualstudio.com"
+docs: "https://code.visualstudio.com/docs"
+categories:
+    - "DEVELOPMENT"
+age_rating:
+    money: false
+    social: false
+    substances: false
+    violence: false
+    telemetry: true # (VSCode official releases include Microsoft telemetry)

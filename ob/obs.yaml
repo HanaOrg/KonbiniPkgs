@@ -1,0 +1,25 @@
+# Highly relevant packages like this one are added by Konbini itself, not their owners.
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+repository: obsproject/obs-studio
+platforms:
+    linux64: "fpak:com.obsproject.Studio"
+    linuxARM: null 
+    mac64: "brew-k:obs"
+    macARM: "brew-k:obs"
+    win64: "wget:OBSProject.OBSStudio"
+name: "Open Broadcaster Software"
+slogan: "Free and open source software for video recording and live streaming."
+desc: "Free and open source software for video recording and live streaming."
+license: "GPLv2"
+author_id: "org.OBSProject"
+icon: null
+homepage: "https://obsproject.com/"
+docs: "https://obsproject.com/kb/"
+categories:
+    - "PRODUCTION"
+age_rating:
+    money: false
+    social: false
+    substances: false
+    violence: false
+    telemetry: false

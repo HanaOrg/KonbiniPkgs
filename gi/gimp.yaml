@@ -1,0 +1,25 @@
+# Highly relevant packages like this one are added by Konbini itself, not their owners.
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+repository: GNOME/gimp # mirror, but still works
+platforms:
+    linux64: "snap:gimp"
+    linuxARM: "snap:gimp"
+    mac64: "brew-k:gimp"
+    macARM: "brew-k:gimp"
+    win64: "wget:GIMP.GIMP"
+name: "GIMP"
+slogan: "GNU Image Manipulation Program"
+desc: "GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring."
+license: "GPLv3"
+author_id: "org.GIMP"
+icon: null
+homepage: "https://www.gimp.org/"
+docs: "https://docs.gimp.org/"
+categories:
+    - "PRODUCTION"
+age_rating:
+    money: false
+    social: false
+    substances: false
+    violence: false
+    telemetry: false

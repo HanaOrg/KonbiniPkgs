@@ -1,0 +1,25 @@
+# Highly relevant packages like this one are added by Konbini itself, not their owners.
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+repository: null
+platforms:
+    linux64: null
+    linuxARM: null
+    mac64: null
+    macARM: null
+    win64: "wget:Microsoft.PowerToys"
+name: "PowerToys"
+slogan: "Windows system utilities to maximize productivity."
+desc: "Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity. Inspired by the Windows 95 era PowerToys project, this reboot provides power users with ways to squeeze more efficiency out of the Windows 10 shell and customize it for individual workflows."
+license: "MIT"
+author_id: "org.Microsoft"
+icon: null
+homepage: "https://github.com/microsoft/PowerToys"
+docs: "https://learn.microsoft.com/en-us/windows/powertoys/?WT.mc_id=twitter-0000-docsmsft"
+categories:
+    - "PRODUCTIVITY"
+age_rating:
+    money: false
+    social: false
+    substances: false
+    violence: false
+    telemetry: true # (just as VSCode, the official release includes telemetry)

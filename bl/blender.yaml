@@ -1,0 +1,25 @@
+# Highly relevant packages like this one are added by Konbini itself, not their owners.
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+repository: blender/blender # mirror, but still works
+platforms:
+    linux64: "snap:blender"
+    linuxARM: null # doesn't appear in SnapCraft
+    mac64: "brew:blender"
+    macARM: "brew:blender"
+    win64: "wget:BlenderFoundation.Blender"
+name: "Blender"
+slogan: "The Freedom to Create."
+desc: "Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline."
+license: "GPLv3"
+author_id: "org.BlenderFoundation"
+icon: null
+homepage: "https://blender.org"
+docs: "https://docs.blender.org/manual/en/latest/index.html"
+categories:
+    - "PRODUCTION"
+age_rating:
+    money: false
+    social: false
+    substances: false
+    violence: false
+    telemetry: false

@@ -1,0 +1,25 @@
+# Highly relevant packages like this one are added by Konbini itself, not their owners.
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+repository: # inkscape/inkscape (gitlab, not github. currently unsupported.)
+platforms:
+    linux64: "snap:inkscape"
+    linuxARM: "snap:inkscape"
+    mac64: "brew-k:inkscape"
+    macARM: "brew-k:inkscape"
+    win64: "wget:Inkscape.Inkscape"
+name: "Inkscape"
+slogan: "Draw freely."
+desc: "Inkscape is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics (SVG) format. Other formats can be imported and exported."
+license: "GPLv2"
+author_id: "org.Inkscape"
+icon: null
+homepage: "https://inkscape.org/"
+docs: "https://inkscape.org/learn/"
+categories:
+    - "PRODUCTION"
+age_rating:
+    money: false
+    social: false
+    substances: false
+    violence: false
+    telemetry: false

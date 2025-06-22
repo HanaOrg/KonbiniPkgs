@@ -1,0 +1,25 @@
+# Highly relevant packages like this one are added by Konbini itself, not their owners.
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+repository: audacity/audacity
+platforms:
+    linux64: "snap:audacity"
+    linuxARM: "snap:audacity"
+    mac64: "brew-k:audacity"
+    macARM: "brew-k:audacity"
+    win64: "wget:Audacity.Audacity"
+name: "Audacity"
+slogan: "Audacity is the world's most popular audio editing and recording app."
+desc: "Audacity is a free, easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems."
+license: "GPLv2"
+author_id: "org.Audacity"
+icon: null
+homepage: "https://audacityteam.org/"
+docs: "https://manual.audacityteam.org/"
+categories:
+    - "PRODUCTION"
+age_rating:
+    money: false
+    social: false
+    substances: false
+    violence: false
+    telemetry: false

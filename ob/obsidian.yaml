@@ -1,0 +1,26 @@
+# Highly relevant packages like this one are added by Konbini itself, not their owners.
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+repository: obsidianmd/obsidian-releases
+platforms:
+    linux64: "snap:obsidian"
+    linuxARM: null # Doesn't appear on SnapCraft
+    # macOS could be supported as STD, but version numbers in filenames are not supported as of now...
+    mac64: "brew-k:obsidian"
+    macARM: "brew-k:obsidian"
+    win64: "wget:Obsidian.Obsidian"
+name: "Obsidian"
+slogan: "Sharpen your thinking."
+desc: "Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files."
+license: "ProprietaryLicense"
+author_id: "org.Obsidian"
+icon: null
+homepage: "https://obsidian.md/"
+docs: "https://help.obsidian.md/"
+categories:
+    - "OFFICE"
+age_rating:
+    money: false
+    social: false
+    substances: false
+    violence: false
+    telemetry: false

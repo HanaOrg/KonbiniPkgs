@@ -1,0 +1,25 @@
+# Highly relevant packages like this one are added by Konbini itself, not their owners.
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+repository: LibreOffice/core
+platforms:
+    linux64: "snap:libreoffice"
+    linuxARM: "snap:libreoffice"
+    mac64: "brew-k:libreoffice"
+    macARM: "brew-k:libreoffice"
+    win64: "wget:TheDocumentFoundation.LibreOffice"
+name: "LibreOffice"
+slogan: "Your private, free office suite"
+desc: "LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity."
+license: "MPLv2"
+author_id: "org.TheDocumentFoundation"
+icon: null
+homepage: "https://www.libreoffice.org/"
+docs: "https://documentation.libreoffice.org/"
+categories:
+    - "OFFICE"
+age_rating:
+    money: false
+    social: false
+    substances: false
+    violence: false
+    telemetry: false
