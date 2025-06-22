@@ -12,7 +12,7 @@ name: "Obsidian"
 slogan: "Sharpen your thinking."
 desc: "Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files."
 license: "ProprietaryLicense"
-author_id: "org.Obsidian"
+author_id: "org.obsidian"
 icon: null
 homepage: "https://obsidian.md/"
 docs: "https://help.obsidian.md/"

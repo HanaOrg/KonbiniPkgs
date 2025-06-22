@@ -11,7 +11,7 @@ name: "Inkscape"
 slogan: "Draw freely."
 desc: "Inkscape is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics (SVG) format. Other formats can be imported and exported."
 license: "GPLv2"
-author_id: "org.Inkscape"
+author_id: "org.inkscape"
 icon: null
 homepage: "https://inkscape.org/"
 docs: "https://inkscape.org/learn/"

@@ -11,7 +11,7 @@ name: "LibreOffice"
 slogan: "Your private, free office suite"
 desc: "LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity."
 license: "MPLv2"
-author_id: "org.TheDocumentFoundation"
+author_id: "org.thedocumentfoundation"
 icon: null
 homepage: "https://www.libreoffice.org/"
 docs: "https://documentation.libreoffice.org/"

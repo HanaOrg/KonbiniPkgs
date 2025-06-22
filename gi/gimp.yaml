@@ -11,7 +11,7 @@ name: "GIMP"
 slogan: "GNU Image Manipulation Program"
 desc: "GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring."
 license: "GPLv3"
-author_id: "org.GIMP"
+author_id: "org.gimp"
 icon: null
 homepage: "https://www.gimp.org/"
 docs: "https://docs.gimp.org/"

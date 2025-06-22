@@ -11,7 +11,7 @@ name: "WhatsApp"
 slogan: "Message privately." # (ahem ahem...)
 desc: "WhatsApp Messenger, or simply WhatsApp, is an American freeware, cross-platform centralized messaging and voice-over-IP (VoIP) service owned by Meta, Inc. It allows users to send text messages and voice messages, make voice and video calls, and share images, documents, user locations, and other content."
 license: "ProprietaryLicense"
-author_id: "org.Meta"
+author_id: "org.meta"
 icon: null
 homepage: "https://whatsapp.com"
 docs: "https://faq.whatsapp.com/"

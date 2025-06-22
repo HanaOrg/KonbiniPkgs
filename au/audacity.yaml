@@ -11,7 +11,7 @@ name: "Audacity"
 slogan: "Audacity is the world's most popular audio editing and recording app."
 desc: "Audacity is a free, easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems."
 license: "GPLv2"
-author_id: "org.Audacity"
+author_id: "org.audacity"
 icon: null
 homepage: "https://audacityteam.org/"
 docs: "https://manual.audacityteam.org/"

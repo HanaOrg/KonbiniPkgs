@@ -11,7 +11,7 @@ name: "Discord"
 slogan: "Group chat that's all fun & games."
 desc: "Whether you're part of a school club, gaming group, worldwide art community, or just a handful of friends that want to spend time together, Discord makes it easy to talk every day and hang out more often."
 license: "ProprietaryLicense"
-author_id: "org.DiscordInc"
+author_id: "org.discord"
 icon: null
 homepage: "https://discord.com"
 docs: "https://support.discord.com/hc/en-us"

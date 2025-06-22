@@ -11,7 +11,7 @@ name: "PowerToys"
 slogan: "Windows system utilities to maximize productivity."
 desc: "Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity. Inspired by the Windows 95 era PowerToys project, this reboot provides power users with ways to squeeze more efficiency out of the Windows 10 shell and customize it for individual workflows."
 license: "MIT"
-author_id: "org.Microsoft"
+author_id: "org.microsoft"
 icon: null
 homepage: "https://github.com/microsoft/PowerToys"
 docs: "https://learn.microsoft.com/en-us/windows/powertoys/?WT.mc_id=twitter-0000-docsmsft"
