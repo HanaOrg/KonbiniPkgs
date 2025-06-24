@@ -9,6 +9,7 @@ maintainers:
     github: ZakaHaceCosas
 desc: >
   **FuckingNode is a CLI tool that automates tasks and gives you tools to make JavaScript development less of a f*cking headache.** We can't fix your bugs, but we can automate most headache-giving tasks across all of your NodeJS/Deno/Bun projects and give you a set of tools to make JS development great again.\n# Features
+
   - automated cleanup of JS projects
   - automated cleanup of global caches (especially useful for pnpm or Bun, where a single global cache exists)
   - automated updates of JS projects' dependencies
