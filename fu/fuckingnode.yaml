@@ -24,15 +24,20 @@ desc: >
   
   - automated commit of lint / prettify / update changes in your code
   
-  \- **from a single command.** It's not magic, it's F*ckingNode-and that name is shipping to production.
+  \n\- **from a single command.** It's not magic, it's F*ckingNode-and that name is shipping to production.
 
   ## And there's more
 
   - automated release / update process of npm / jsr packages, from a single command
+  
   - automated cloning of a repo, installation of dependencies, and opening of your favorite editor for a project, from a single command
+  
   - automated cross-manager (e.g. npm -> pnpm) or cross-runtime (e.g. NodeJS/npm -> Bun) migration, from a single command
+  
   - a security audit assistant that analyzes vulnerabilities and tells you if they do affect your project or can be safely ignored, from a single command
+  
   - addition of a pre-configured tsconfig.json or .gitignore file for your project, from a single command
+  
   - automated removal of entire node_modules across all of your projects for storage emergencies, from, you guessed it, a single command"
 icon: null
 screenshot_urls: []
