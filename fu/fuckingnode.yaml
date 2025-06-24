@@ -22,9 +22,9 @@ desc: >
   
   - automated removal of unneeded files (e.g. dist/, out/...)
   
-  - automated commit of lint / prettify / update changes in your code
-  
-  \n\- **from a single command.** It's not magic, it's F*ckingNode-and that name is shipping to production.
+  - automated commit of lint / prettify / update changes in your code\n
+
+  \- **from a single command.** It's not magic, it's F*ckingNode-and that name is shipping to production.
 
   ## And there's more
 
