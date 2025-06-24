@@ -11,15 +11,22 @@ desc: >
   **FuckingNode is a CLI tool that automates tasks and gives you tools to make JavaScript development less of a f*cking headache.** We can't fix your bugs, but we can automate most headache-giving tasks across all of your NodeJS/Deno/Bun projects and give you a set of tools to make JS development great again.\n# Features
 
   - automated cleanup of JS projects
-  - automated cleanup of global caches (especially useful for pnpm or Bun, where a single global cache exists)
-  - automated updates of JS projects' dependencies
-  - automated linting of JS projects
-  - automated prettying of JS projects
-  - automated removal of unneeded files (e.g. dist/, out/...)
-  - automated commit of lint / prettify / update changes in your code
-  — from a single command. It's not magic, it's F*ckingNode-and that name is shipping to production.
 
-  ## Plus other features like:
+  - automated cleanup of global caches (especially useful for pnpm or Bun, where a single global cache exists)
+  
+  - automated updates of JS projects' dependencies
+  
+  - automated linting of JS projects
+  
+  - automated prettying of JS projects
+  
+  - automated removal of unneeded files (e.g. dist/, out/...)
+  
+  - automated commit of lint / prettify / update changes in your code
+  
+  \- **from a single command.** It's not magic, it's F*ckingNode-and that name is shipping to production.
+
+  ## And there's more
 
   - automated release / update process of npm / jsr packages, from a single command
   - automated cloning of a repo, installation of dependencies, and opening of your favorite editor for a project, from a single command
