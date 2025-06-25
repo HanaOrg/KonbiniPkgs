@@ -3,6 +3,7 @@ author_id: org.fuckingnode
 slogan: The chaos of maintaining JavaScript projects ends here
 homepage: https://fuckingnode.github.io
 docs: https://fuckingnode.github.io/manual/
+icon: https://fuckingnode.github.io/fkn_logo.webp
 maintainers:
   - name: ZakaHaceCosas
     link: https://zakahacecosas.github.io/
@@ -24,7 +25,7 @@ desc: >
   
   - automated commit of lint / prettify / update changes in your code\n
 
-  \- **from a single command.** It's not magic, it's F*ckingNode-and that name is shipping to production.
+  \- **from a single command.** It's not magic, it's FuckingNode-and that name is shipping to production.
 
   ## And there's more
 
@@ -39,8 +40,19 @@ desc: >
   - addition of a pre-configured tsconfig.json or .gitignore file for your project, from a single command
   
   - automated removal of entire node_modules across all of your projects for storage emergencies, from, you guessed it, a single command"
-icon: null
-screenshot_urls: []
+screenshot_urls:
+  - text: "A project being automatically cloned and dependency-installed by FuckingNode kickstart."
+    link: "https://fuckingnode.github.io/ss_kickstart.webp"
+  - text: "A template tsconfig.json file being automatically created by FuckingNode setup."
+    link: "https://fuckingnode.github.io/ss_setup_add.webp"
+  - text: "A list of available setup files to be autocreated by FuckingNode setup."
+    link: "https://fuckingnode.github.io/ss_setup_list.webp"
+  - text: "An npm project being audited by FuckingNode audit; the user is told the vulnerabilities cannot be ignored."
+    link: "https://fuckingnode.github.io/ss_audit.webp"
+  - text: "All of the user's projects being bulk-cleaned at once."
+    link: "https://fuckingnode.github.io/ss_clean.webp"
+  - text: "All projects of a user, listed."
+    link: "https://fuckingnode.github.io/ss_list.webp"
 categories:
   - PRODUCTIVITY
   - DEVELOPMENT
