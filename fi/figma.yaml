@@ -22,4 +22,6 @@ age_rating:
     social: false
     substances: false
     violence: false
-    telemetry: true # (obvious)
+telemetry: true # (obvious)
+privacy: https://www.figma.com/legal/privacy/
+terms: https://www.figma.com/legal/tos/

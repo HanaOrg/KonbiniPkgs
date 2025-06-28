@@ -22,4 +22,6 @@ age_rating:
     social: false
     substances: false
     violence: false
-    telemetry: false
+telemetry: false
+privacy: https://www.blender.org/privacy-policy/
+terms: https://www.blender.org/about/license/

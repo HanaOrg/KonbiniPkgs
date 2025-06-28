@@ -22,4 +22,6 @@ age_rating:
     social: true # (obvious)
     substances: false
     violence: false
-    telemetry: true # (also obvious)
+telemetry: true # (also obvious)
+privacy: https://www.whatsapp.com/legal/privacy-policy
+terms: https://www.whatsapp.com/legal/terms-of-service

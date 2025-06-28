@@ -22,4 +22,5 @@ age_rating:
     social: false
     substances: false
     violence: false
-    telemetry: true # (just as VSCode, the official release includes telemetry)
+telemetry: true # (just as VSCode, the official release includes telemetry)
+privacy: https://github.com/microsoft/PowerToys/blob/main/DATA_AND_PRIVACY.md

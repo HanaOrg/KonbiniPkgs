@@ -23,4 +23,4 @@ age_rating:
     social: false
     substances: false
     violence: false
-    telemetry: false
+telemetry: false

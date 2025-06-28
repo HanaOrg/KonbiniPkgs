@@ -23,4 +23,6 @@ age_rating:
     social: false
     substances: false
     violence: false
-    telemetry: false
+telemetry: false
+privacy: https://obsidian.md/privacy
+terms: https://obsidian.md/terms

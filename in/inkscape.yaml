@@ -22,4 +22,6 @@ age_rating:
     social: false
     substances: false
     violence: false
-    telemetry: false
+telemetry: false
+terms: https://inkscape.org/about/license/
+privacy: https://inkscape.org/about/privacy/
