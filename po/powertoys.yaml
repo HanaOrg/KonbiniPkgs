@@ -14,7 +14,7 @@ license: "MIT"
 author_id: "org.microsoft"
 icon: null
 homepage: "https://github.com/microsoft/PowerToys"
-docs: "https://learn.microsoft.com/en-us/windows/powertoys/?WT.mc_id=twitter-0000-docsmsft"
+docs: "https://learn.microsoft.com/en-us/windows/powertoys/"
 categories:
     - "PRODUCTIVITY"
 age_rating:
