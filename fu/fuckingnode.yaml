@@ -61,7 +61,6 @@ age_rating:
   social: false
   substances: false
   violence: false
-  telemetry: false
 license: GPLv3
 repository: FuckingNode/FuckingNode
 platforms:
@@ -70,3 +69,10 @@ platforms:
   mac64: std:fuckingnode-macos64
   macARM: std:fuckingnode-macos_arm
   win64: std:fuckingnode-win64.exe
+sys_requirements:
+  # based on what does support DenoJS (searched it up)
+  os_ver: "win=10,mac=10.15,lin=Any modern distribution"
+  # measured locally (then increased by a margin just in case)
+  ram_mb: 512
+  disk_mb: 100
+telemetry: false
