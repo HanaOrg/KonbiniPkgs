@@ -62,7 +62,7 @@ age_rating:
   substances: false
   violence: false
 license: GPLv3
-repository: FuckingNode/FuckingNode
+repository: gh:FuckingNode/FuckingNode
 platforms:
   linux64: std:fuckingnode-linux64
   linuxARM: std:fuckingnode-linux_arm
