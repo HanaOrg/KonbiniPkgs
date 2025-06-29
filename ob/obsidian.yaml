@@ -1,6 +1,6 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
-repository: obsidianmd/obsidian-releases
+repository: gh:obsidianmd/obsidian-releases
 platforms:
     linux64: "snap:obsidian"
     linuxARM: null # Doesn't appear on SnapCraft

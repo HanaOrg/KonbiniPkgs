@@ -1,6 +1,6 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
-repository: rocksdanister/lively
+repository: gh:rocksdanister/lively
 platforms:
     linux64: null
     linuxARM: null
