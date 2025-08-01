@@ -64,11 +64,11 @@ age_rating:
 license: GPLv3
 repository: gh:FuckingNode/FuckingNode
 platforms:
-  linux64: std:fuckingnode-linux64
-  linuxArm: std:fuckingnode-linux_arm
-  mac64: std:fuckingnode-macos64
-  macArm: std:fuckingnode-macos_arm
-  win64: std:fuckingnode-win64.exe
+  linux64: kbi:fuckingnode-linux64
+  linuxArm: kbi:fuckingnode-linux_arm
+  mac64: kbi:fuckingnode-macos64
+  macArm: kbi:fuckingnode-macos_arm
+  win64: kbi:fuckingnode-win64.exe
 sys_requirements:
   # based on what does support DenoJS (searched it up)
   os_ver: "win=10,mac=10.15,lin=Any modern distribution"
