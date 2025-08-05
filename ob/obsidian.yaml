@@ -1,12 +1,13 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 repository: gh:obsidianmd/obsidian-releases
+app_type: "gui"
 platforms:
     linux64: "snap:obsidian"
-    linuxARM: null # Doesn't appear on SnapCraft
-    # macOS could be supported as STD, but version numbers in filenames are not supported as of now...
+    linuxArm: null # Doesn't appear on SnapCraft
+    # macOS could be supported as KBI, i think, gotta check
     mac64: "brew-k:obsidian"
-    macARM: "brew-k:obsidian"
+    macArm: "brew-k:obsidian"
     win64: "wget:Obsidian.Obsidian"
 name: "Obsidian"
 slogan: "Sharpen your thinking."

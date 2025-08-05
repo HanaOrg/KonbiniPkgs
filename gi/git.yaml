@@ -1,11 +1,12 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 repository: gh:git/git
+app_type: "cli"
 platforms:
     linux64: "apt:git"
-    linuxARM: "apt:git"
+    linuxArm: "apt:git"
     mac64: "brew:git"
-    macARM: "brew:git"
+    macArm: "brew:git"
     win64: "wget:Git.Git"
 name: "Git"
 slogan: "Git - fast, scalable, distributed revision control system."

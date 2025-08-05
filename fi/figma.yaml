@@ -1,11 +1,12 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 repository: null
+app_type: "gui"
 platforms:
     linux64: null
-    linuxARM: null
+    linuxArm: null
     mac64: "brew-k:figma"
-    macARM: "brew-k:figma"
+    macArm: "brew-k:figma"
     win64: "wget:Figma.Figma"
 name: "Figma"
 slogan: "The collaborative interface design tool."

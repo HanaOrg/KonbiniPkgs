@@ -1,11 +1,12 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 repository: gh:audacity/audacity
+app_type: "gui"
 platforms:
     linux64: "snap:audacity"
-    linuxARM: "snap:audacity"
+    linuxArm: "snap:audacity"
     mac64: "brew-k:audacity"
-    macARM: "brew-k:audacity"
+    macArm: "brew-k:audacity"
     win64: "wget:Audacity.Audacity"
 name: "Audacity"
 slogan: "Audacity is the world's most popular audio editing and recording app."

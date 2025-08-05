@@ -1,11 +1,12 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 repository: gh:GNOME/gimp # mirror, but still works
+app_type: "gui"
 platforms:
     linux64: "snap:gimp"
-    linuxARM: "snap:gimp"
+    linuxArm: "snap:gimp"
     mac64: "brew-k:gimp"
-    macARM: "brew-k:gimp"
+    macArm: "brew-k:gimp"
     win64: "wget:GIMP.GIMP"
 name: "GIMP"
 slogan: "GNU Image Manipulation Program"

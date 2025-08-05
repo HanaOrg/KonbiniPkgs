@@ -1,11 +1,12 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 repository: gh:microsoft/vscode
+app_type: "gui"
 platforms:
     linux64: "snap:code"
-    linuxARM: null # doesn't appear in SnapCraft
+    linuxArm: null # doesn't appear in SnapCraft
     mac64: "brew-k:visual-studio-code"
-    macARM: "brew-k:visual-studio-code"
+    macArm: "brew-k:visual-studio-code"
     win64: "wget:Microsoft.VisualStudioCode"
 name: "Visual Studio Code"
 slogan: "Code editing, redefined."

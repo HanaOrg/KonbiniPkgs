@@ -1,11 +1,12 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 repository: null
+app_type: "gui"
 platforms:
     linux64: "snap:discord"
-    linuxARM: null # doesn't appear in SnapCraft
+    linuxArm: null # doesn't appear in SnapCraft
     mac64: "brew-k:discord"
-    macARM: null # doesn't appear in Homebrew
+    macArm: null # doesn't appear in Homebrew
     win64: "wget:Discord.Discord"
 name: "Discord"
 slogan: "Group chat that's all fun & games."

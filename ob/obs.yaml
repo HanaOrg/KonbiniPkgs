@@ -1,11 +1,12 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 repository: gh:obsproject/obs-studio
+app_type: "gui"
 platforms:
     linux64: "fpak:com.obsproject.Studio"
-    linuxARM: null 
+    linuxArm: null 
     mac64: "brew-k:obs"
-    macARM: "brew-k:obs"
+    macArm: "brew-k:obs"
     win64: "wget:OBSProject.OBSStudio"
 name: "Open Broadcaster Software"
 slogan: "Free and open source software for video recording and live streaming."
