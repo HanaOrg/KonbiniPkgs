@@ -1,5 +1,6 @@
 name: FuckingNode
 author_id: org.fuckingnode
+app_type: cli
 slogan: The chaos of maintaining JavaScript projects ends here
 homepage: https://fuckingnode.github.io
 docs: https://fuckingnode.github.io/manual/
