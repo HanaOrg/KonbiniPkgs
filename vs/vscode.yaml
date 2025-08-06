@@ -14,6 +14,17 @@ desc: "Microsoft Visual Studio Code is a code editor redefined and optimized for
 license: "ProprietaryLicense"
 author_id: "org.microsoft"
 icon: null
+screenshot_urls:
+  - text: "Agent mode: Tackle complex, multi-step tasks. Agent mode reads your codebase, suggests edits across files, runs terminal commands, and responds to compile or test failures — all in a loop until the job is done."
+    link: https://code.visualstudio.com/assets/home/swimlane-chat-dark.webp
+  - text: "Next edit suggestions: VS Code predicts your next move as you code. Use the Tab key to accept AI-powered suggestions right in your editor."
+    link: https://code.visualstudio.com/assets/home/swimlane-nes-dark.webp
+  - text: "Fully customizable: Customize your VS Code UI and layout so that it fits your coding style."
+    link: https://code.visualstudio.com/assets/home/swimlane-customized.png
+sys_requirements:
+  os_ver: "win=10,mac=x,lin=Ubuntu 20.04 / Debian 10 / RHEL 8 / Fedora 36 or later"
+  ram_mb: 1024
+  disk_mb: 500
 homepage: "https://code.visualstudio.com"
 docs: "https://code.visualstudio.com/docs"
 categories:
