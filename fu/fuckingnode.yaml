@@ -4,13 +4,13 @@ app_type: cli
 slogan: The chaos of maintaining JavaScript projects ends here
 homepage: https://fuckingnode.github.io
 docs: https://fuckingnode.github.io/manual/
-icon: https://fuckingnode.github.io/fkn_logo.webp
+icon: https://fuckingnode.github.io/fkn_icon.webp
 maintainers:
   - name: ZakaHaceCosas
     link: https://zakahacecosas.github.io/
     github: ZakaHaceCosas
 desc: >
-  **FuckingNode is a CLI tool that automates tasks and gives you tools to make JavaScript development less of a f*cking headache.** We can't fix your bugs, but we can automate most headache-giving tasks across all of your NodeJS/Deno/Bun projects and give you a set of tools to make JS development great again.\n# Features
+  **FuckingNode is a CLI tool that automates tasks and gives you tools to make JavaScript development less of a f*cking headache.** We can't fix your bugs, but we can automate most headache-giving tasks across all of your NodeJS/Deno/Bun projects and give you a set of tools to make JS development great again.\n## Features
 
   - automated cleanup of JS projects
 
@@ -42,18 +42,12 @@ desc: >
   
   - automated removal of entire node_modules across all of your projects for storage emergencies, from, you guessed it, a single command"
 screenshot_urls:
-  - text: "A project being automatically cloned and dependency-installed by FuckingNode kickstart."
-    link: "https://fuckingnode.github.io/ss_kickstart.webp"
-  - text: "A template tsconfig.json file being automatically created by FuckingNode setup."
-    link: "https://fuckingnode.github.io/ss_setup_add.webp"
-  - text: "A list of available setup files to be autocreated by FuckingNode setup."
-    link: "https://fuckingnode.github.io/ss_setup_list.webp"
-  - text: "An npm project being audited by FuckingNode audit; the user is told the vulnerabilities cannot be ignored."
-    link: "https://fuckingnode.github.io/ss_audit.webp"
-  - text: "All of the user's projects being bulk-cleaned at once."
-    link: "https://fuckingnode.github.io/ss_clean.webp"
-  - text: "All projects of a user, listed."
-    link: "https://fuckingnode.github.io/ss_list.webp"
+  - text: "Let all your projects get cleaned, dependencies updated, code prettified... Without having to type a thing, so you can focus on your thing."
+    link: "https://fuckingnode.github.io/konbini_1.webp"
+  - text: "Kickstart repositories without waiting. Repos get cloned for you, dependencies install for you, and your editor launches for you. Easy."
+    link: "https://fuckingnode.github.io/konbini_2.webp"
+  - text: "Despite the name, FuckingNode is actually \"FuckingJavascript\". We improve your developer experience anywhere JavaScript takes you."
+    link: "https://fuckingnode.github.io/konbini_3.webp"
 categories:
   - PRODUCTIVITY
   - DEVELOPMENT
