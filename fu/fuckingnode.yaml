@@ -48,6 +48,14 @@ screenshot_urls:
     link: "https://fuckingnode.github.io/konbini_2.png"
   - text: "Despite the name, FuckingNode is actually \"FuckingJavascript\". We improve your developer experience anywhere JavaScript takes you."
     link: "https://fuckingnode.github.io/konbini_3.png"
+  - text: "Fearlessly commit your code, you won't ever again forget your test suite. We'll run them it you and won't commit anything if it fails."
+    link: "https://fuckingnode.github.io/konbini_4.png"
+  - text: "Forget about clicking your editor's icon or cd-ing into your project. Run 'start', and get it started. As easy as you deserve."
+    link: "https://fuckingnode.github.io/konbini_5.png"
+  - text: "Abandoning some projects is a part of the journey to become a great developer. We make it easy to properly say \"farewell\" your code."
+    link: "https://fuckingnode.github.io/konbini_6.png"
+  - text: "You're hired to write TypeScript, not tsconfig. We do the configing, you do the coding. And yes, our own config file is also covered."
+    link: "https://fuckingnode.github.io/konbini_7.png"
 categories:
   - PRODUCTIVITY
   - DEVELOPMENT
