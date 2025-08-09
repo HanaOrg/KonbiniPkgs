@@ -43,11 +43,11 @@ desc: >
   - automated removal of entire node_modules across all of your projects for storage emergencies, from, you guessed it, a single command"
 screenshot_urls:
   - text: "Let all your projects get cleaned, dependencies updated, code prettified... Without having to type a thing, so you can focus on your thing."
-    link: "https://fuckingnode.github.io/konbini_1.webp"
+    link: "https://fuckingnode.github.io/konbini_1.png"
   - text: "Kickstart repositories without waiting. Repos get cloned for you, dependencies install for you, and your editor launches for you. Easy."
-    link: "https://fuckingnode.github.io/konbini_2.webp"
+    link: "https://fuckingnode.github.io/konbini_2.png"
   - text: "Despite the name, FuckingNode is actually \"FuckingJavascript\". We improve your developer experience anywhere JavaScript takes you."
-    link: "https://fuckingnode.github.io/konbini_3.webp"
+    link: "https://fuckingnode.github.io/konbini_3.png"
 categories:
   - PRODUCTIVITY
   - DEVELOPMENT
