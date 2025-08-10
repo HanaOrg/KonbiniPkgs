@@ -1,7 +1,7 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 repository: gh:obsidianmd/obsidian-releases
-app_type: "gui"
+type: "gui"
 platforms:
     linux64: "snap:obsidian"
     linuxArm: null # Doesn't appear on SnapCraft
@@ -13,7 +13,7 @@ name: "Obsidian"
 slogan: "Sharpen your thinking."
 desc: "Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files."
 license: "ProprietaryLicense"
-author_id: "org.obsidian"
+author: "org.obsidian"
 icon: null
 homepage: "https://obsidian.md/"
 docs: "https://help.obsidian.md/"

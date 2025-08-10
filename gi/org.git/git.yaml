@@ -1,7 +1,7 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 repository: gh:git/git
-app_type: "cli"
+type: "cli"
 platforms:
     linux64: "apt:git"
     linuxArm: "apt:git"
@@ -12,7 +12,7 @@ name: "Git"
 slogan: "Git - fast, scalable, distributed revision control system."
 desc: "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.\nGit is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows."
 license: "GPLv2"
-author_id: "org.git"
+author: "org.git"
 icon: null
 homepage: "https://git-scm.com/"
 docs: "https://git-scm.com/docs"

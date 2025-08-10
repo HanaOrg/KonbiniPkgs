@@ -1,6 +1,6 @@
 name: FuckingNode
-author_id: org.fuckingnode
-app_type: cli
+author: org.fuckingnode
+type: cli
 slogan: The chaos of maintaining JavaScript projects ends here
 homepage: https://fuckingnode.github.io
 docs: https://fuckingnode.github.io/manual/
@@ -41,7 +41,7 @@ desc: >
   - addition of a pre-configured tsconfig.json or .gitignore file for your project, from a single command
   
   - automated removal of entire node_modules across all of your projects for storage emergencies, from, you guessed it, a single command"
-screenshot_urls:
+images:
   - text: "Let all your projects get cleaned, dependencies updated, code prettified... Without having to type a thing, so you can focus on your thing."
     link: "https://fuckingnode.github.io/konbini_1.png"
   - text: "Kickstart repositories without waiting. Repos get cloned for you, dependencies install for you, and your editor launches for you. Easy."
@@ -68,13 +68,16 @@ license: GPLv3
 repository: gh:FuckingNode/FuckingNode
 platforms:
   linux64: kbi:fuckingnode-linux64
-  linuxArm: kbi:fuckingnode-linux_arm
-  mac64: kbi:fuckingnode-macos64
-  macArm: kbi:fuckingnode-macos_arm
+  linuxArm: kbi:fuckingnode-linuxArm
+  mac64: kbi:fuckingnode-mac64
+  macArm: kbi:fuckingnode-macArm
   win64: kbi:fuckingnode-win64.exe
-sys_requirements:
+requirements:
   # based on what does support DenoJS (searched it up)
-  os_ver: "win=10,mac=10.15,lin=Any modern distribution"
+  os_ver:
+    win: "Windows 10 or later"
+    mac: "macOS 10.15 or later"
+    lin: "Any modern distribution"
   # measured locally (then increased by a margin just in case)
   ram_mb: 512
   disk_mb: 100

@@ -1,7 +1,7 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 repository: gh:LibreOffice/core
-app_type: "gui"
+type: "gui"
 platforms:
     linux64: "snap:libreoffice"
     linuxArm: "snap:libreoffice"
@@ -12,7 +12,7 @@ name: "LibreOffice"
 slogan: "Your private, free office suite"
 desc: "LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity."
 license: "MPLv2"
-author_id: "org.thedocumentfoundation"
+author: "org.thedocumentfoundation"
 icon: null
 homepage: "https://www.libreoffice.org/"
 docs: "https://documentation.libreoffice.org/"

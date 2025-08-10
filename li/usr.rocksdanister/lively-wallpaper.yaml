@@ -1,7 +1,7 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 repository: gh:rocksdanister/lively
-app_type: "gui"
+type: "gui"
 platforms:
     linux64: null
     linuxArm: null
@@ -12,7 +12,7 @@ name: "Lively Wallpaper"
 slogan: "Free and open-source software that allows users to set animated desktop wallpapers and screensavers."
 desc: "Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3."
 license: "GPLv3"
-author_id: "usr.rocksdanister"
+author: "usr.rocksdanister"
 icon: null
 homepage: "https://www.rocksdanister.com/lively/"
 docs: "https://github.com/rocksdanister/lively/wiki/Getting-Started"

@@ -1,7 +1,7 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 repository: null
-app_type: "gui"
+type: "gui"
 platforms:
     linux64: null
     linuxArm: null
@@ -12,7 +12,7 @@ name: "Figma"
 slogan: "The collaborative interface design tool."
 desc: "Build better products as a team. Design, prototype, and gather feedback all in one place with Figma."
 license: "ProprietaryLicense"
-author_id: "org.figma"
+author: "org.figma"
 icon: null
 homepage: "https://figma.com"
 docs: "https://help.figma.com/hc/en-us"

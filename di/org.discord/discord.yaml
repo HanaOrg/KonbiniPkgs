@@ -1,7 +1,7 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 repository: null
-app_type: "gui"
+type: "gui"
 platforms:
     linux64: "snap:discord"
     linuxArm: null # doesn't appear in SnapCraft
@@ -12,7 +12,7 @@ name: "Discord"
 slogan: "Group chat that's all fun & games."
 desc: "Whether you're part of a school club, gaming group, worldwide art community, or just a handful of friends that want to spend time together, Discord makes it easy to talk every day and hang out more often."
 license: "ProprietaryLicense"
-author_id: "org.discord"
+author: "org.discord"
 icon: null
 homepage: "https://discord.com"
 docs: "https://support.discord.com/hc/en-us"

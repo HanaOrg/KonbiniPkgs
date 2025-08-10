@@ -1,7 +1,7 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 repository: gh:obsproject/obs-studio
-app_type: "gui"
+type: "gui"
 platforms:
     linux64: "fpak:com.obsproject.Studio"
     linuxArm: null 
@@ -12,7 +12,7 @@ name: "Open Broadcaster Software"
 slogan: "Free and open source software for video recording and live streaming."
 desc: "Free and open source software for video recording and live streaming."
 license: "GPLv2"
-author_id: "org.obsproject"
+author: "org.obsproject"
 icon: null
 homepage: "https://obsproject.com/"
 docs: "https://obsproject.com/kb/"

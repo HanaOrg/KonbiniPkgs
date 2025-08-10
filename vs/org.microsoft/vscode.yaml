@@ -1,7 +1,7 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 repository: gh:microsoft/vscode
-app_type: "gui"
+type: "gui"
 platforms:
     linux64: "snap:code"
     linuxArm: null # doesn't appear in SnapCraft
@@ -12,17 +12,19 @@ name: "Visual Studio Code"
 slogan: "Code editing, redefined."
 desc: "Microsoft Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Microsoft Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows."
 license: "ProprietaryLicense"
-author_id: "org.microsoft"
+author: "org.microsoft"
 icon: null
-screenshot_urls:
+images:
   - text: "Agent mode: Tackle complex, multi-step tasks. Agent mode reads your codebase, suggests edits across files, runs terminal commands, and responds to compile or test failures — all in a loop until the job is done."
     link: https://code.visualstudio.com/assets/home/swimlane-chat-dark.webp
   - text: "Next edit suggestions: VS Code predicts your next move as you code. Use the Tab key to accept AI-powered suggestions right in your editor."
     link: https://code.visualstudio.com/assets/home/swimlane-nes-dark.webp
   - text: "Fully customizable: Customize your VS Code UI and layout so that it fits your coding style."
     link: https://code.visualstudio.com/assets/home/swimlane-customized.png
-sys_requirements:
-  os_ver: "win=10,mac=x,lin=Ubuntu 20.04 / Debian 10 / RHEL 8 / Fedora 36 or later"
+requirements:
+  os_ver:
+    win: Windows 10 or later
+    lin: Ubuntu 20.04 / Debian 10 / RHEL 8 / Fedora 36, or later
   ram_mb: 1024
   disk_mb: 500
 homepage: "https://code.visualstudio.com"
