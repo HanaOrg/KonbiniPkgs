@@ -51,3 +51,4 @@ images:
     link: "https://hana-org.vercel.app/zaiko/increment-stock.png"
   - text: Tweak settings like theme or alert thresholds, or export data.
     link: "https://hana-org.vercel.app/zaiko/settings.png"
+accent: "#163489"

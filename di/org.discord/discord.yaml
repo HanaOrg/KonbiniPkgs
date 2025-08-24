@@ -28,3 +28,4 @@ age_rating:
 telemetry: true # (also obvious)
 privacy: https://discord.com/privacy/
 terms: https://discord.com/terms/
+accent: "#5562ea"

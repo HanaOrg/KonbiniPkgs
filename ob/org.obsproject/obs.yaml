@@ -25,3 +25,4 @@ age_rating:
     violence: false
 telemetry: false
 privacy: https://obsproject.com/privacy-policy
+accent: "#256eff" # not from logo, but from website

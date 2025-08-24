@@ -25,3 +25,4 @@ age_rating:
     substances: false
     violence: false
 telemetry: false
+accent: "#eb4d28"

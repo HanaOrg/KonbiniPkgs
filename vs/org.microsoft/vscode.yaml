@@ -39,3 +39,4 @@ age_rating:
 telemetry: true # (VSCode official releases include Microsoft telemetry)
 terms: https://code.visualstudio.com/license
 privacy: https://www.microsoft.com/en-us/privacy/privacystatement
+accent: "#3794ff" # not from logo but from website
