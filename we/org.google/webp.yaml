@@ -32,3 +32,4 @@ age_rating:
     substances: false
     violence: false
 telemetry: false
+accent: "#7ed32a"
