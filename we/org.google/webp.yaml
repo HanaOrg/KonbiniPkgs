@@ -1,0 +1,34 @@
+# Highly relevant packages like this one are added by Konbini itself, not their owners.
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+repository: null
+type: "cli"
+platforms:
+    linux64: "brew:webp"
+    linuxArm: "brew:webp"
+    mac64: "brew:webp"
+    macArm: "brew:webp"
+    win64: null
+name: "WebP"
+slogan: "An image format for the Web."
+desc: >
+  WebP is a modern **image format** that provides superior **lossless and lossy** compression for images on the web. Using WebP, webmasters and web developers can create smaller, richer images that make the web faster.
+
+  WebP lossless images are [26% smaller](https://developers.google.com/speed/webp/docs/webp_lossless_alpha_study#results) in size compared to PNGs. WebP lossy images are [25-34% smaller](https://developers.google.com/speed/webp/docs/webp_study) than comparable JPEG images at equivalent SSIM quality index.
+
+  Lossless WebP **supports transparency** (also known as alpha channel) at a cost of just [22% additional bytes](https://developers.google.com/speed/webp/docs/webp_lossless_alpha_study#results). For cases when lossy RGB compression is acceptable, **lossy WebP also supports transparency**, typically providing 3× smaller file sizes compared to PNG.
+
+  Lossy, lossless and transparency are all supported in **animated WebP images**, which can provide reduced sizes compared to GIF and APNG.
+# TODO check
+license: "BSD3Clause"
+author: "org.google"
+icon: "https://developers.google.com/static/speed/webp/images/webp-devsite-icon_72.png"
+homepage: "https://developers.google.com/speed/webp/"
+docs: "https://developers.google.com/speed/webp/docs/using"
+categories:
+    - "DEVELOPMENT"
+age_rating:
+    money: false
+    social: false
+    substances: false
+    violence: false
+telemetry: false
