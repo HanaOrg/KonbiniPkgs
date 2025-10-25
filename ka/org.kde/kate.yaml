@@ -1,0 +1,95 @@
+name: Kate
+author: org.kde
+type: gui
+slogan: Advanced text editor
+homepage: https://kate-editor.org/
+docs: https://docs.kde.org/?application=kate
+icon: https://kate-editor.org/images/kate.svg
+desc: >
+  Kate is a fast multi-document, multi-view text editor for programmers by KDE. It features stuff like LSP (Language Server Protocol) support, projects, multiple cursors and selections, git integration, folder wide search, horizontal and vertical splits, vi mode, syntax highlighting for 300+ languages, built-in terminal, dynamic word wrap and much more. It is available on Linux, BSD, Windows and MacOS.
+
+  Features:
+
+  - MDI, window splitting, window tabbing
+
+  - Spell checking
+
+  - CR, CRLF, LF newline support
+
+  - Encoding support (utf-8, utf-16, ascii etc.)
+
+  - Encoding conversion
+
+  - Regular expression based find & replace
+
+  - Syntax highlighting for 300+ languages
+
+  - Code and text folding
+
+  - Multiple cursors and multiple selections
+
+  - Block selection mode
+
+  - Auto indentation
+
+  - Auto completion support
+
+  - Shell integration
+
+  - Wide protocol support (http, ftp, ssh, webdav etc.)
+
+  - Extensible via plugins
+
+  - Integrated terminal
+
+  - Scriptable using JavaScript
+
+  - Vi mode
+
+  - Intellisense support using LSP (Language Server Protocol)
+
+  - DAP (Debug Adapter Protocol) support
+
+  - Vertical tabs/document list
+
+  - Lightweight project support. Kate can open folders as projects
+
+  - Code formatting using native formatters such as clang-format, prettier etc
+
+  - Built in filesystem browser
+
+  - CTags support
+
+  - Project wide and folder wide search
+
+  - Git integration
+images:
+  - text: Get an Edge in Editing
+    link: https://kate-editor.org/images/kate-window.png
+  - text: Make Your Code Pretty With Syntax Highlighting
+    link: https://kate-editor.org/images/kate-syntax-example.png
+  - text: Multi-cursor editing
+    link: https://kate-editor.org/images/kate-multicursor.gif
+  - text: Work on Complex Projects Efficiently
+    link: https://kate-editor.org/images/search.png
+  - text: Develop your Next Application with Kate
+    link: https://kate-editor.org/images/completion.png
+  - text: Plugins
+    link: https://kate-editor.org/images/konsole.png
+categories:
+  - DEVELOPMENT
+age_rating:
+  money: false
+  social: false
+  substances: false
+  violence: false
+license: GPLv2
+repository: gh:KDE/kate
+platforms:
+  linux64: fpak:org.kde.kate
+  linuxArm: fpak:org.kde.kate
+  mac64: null
+  macArm: null
+  win64: null
+telemetry: false
+accent: "#13a9ff"

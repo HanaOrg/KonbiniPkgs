@@ -1,0 +1,41 @@
+name: KDevelop
+author: org.kde
+type: gui
+slogan: Featureful, plugin-extensible IDE for C/C++ and other programming languages
+homepage: https://kdevelop.org/
+docs: https://docs.kde.org/?application=kdevelop
+icon: https://kdevelop.org/images/kdevelop.svg
+desc: >
+  KDevelop is a Free and Open Source integrated development environment (IDE).
+
+  It provides editing, navigation and debugging features for several programming languages, as well as integration with multiple build systems and version-control systems, using a plugin-based architecture.
+
+  KDevelop has parser backends for C, C++ and Javascript/QML, with further external plugins supporting e.g. PHP or Python.
+images:
+  - text: "Understand your code better with remarkable code comprehension"
+    link: "https://kdevelop.org/images/code-comprehension.webp"
+  - text: Program in every language
+    link: https://kdevelop.org/images/kdevelop-code.png
+  - text: Work on multiple projects simultaneously
+    link: https://kdevelop.org/images/multiple-projects.webp
+  - text: Check again with documentation integration
+    link: https://kdevelop.org/images/kdevelop-documentation.png
+  - text: Plugins
+    link: https://kdevelop.org/images/plugins.webp
+categories:
+  - DEVELOPMENT
+age_rating:
+  money: false
+  social: false
+  substances: false
+  violence: false
+license: GPLv2
+repository: gh:KDE/kdevelop
+platforms:
+  linux64: fpak:org.kde.kdevelop
+  linuxArm: fpak:org.kde.kdevelop
+  mac64: null
+  macArm: null
+  win64: null
+telemetry: false
+accent: "#4ec780"

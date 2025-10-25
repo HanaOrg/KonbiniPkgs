@@ -1,5 +1,6 @@
 # Highly relevant packages like this one are added by Konbini itself, not their owners.
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
 repository: gh:blender/blender # mirror, but still works
 type: "gui"
 platforms:
