@@ -1,0 +1,48 @@
+# Highly relevant packages like this one are added by Konbini itself, not their owners.
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Kdenlive
+author: org.kde
+type: gui
+slogan: Free and Open Source Video Editor
+homepage: https://kdenlive.org/
+docs: https://docs.kdenlive.org/
+icon: https://kdenlive.org/images/logo-white-textless_hu_e89413e458d07505.webp
+desc: >
+  Kdenlive is a video editing application with support for many audio and video formats. It offers advanced editing features, a variety of effects and transitions, color correction, audio post-production and subtitling tools. Additionally, it provides the flexibility to render into practically any format of your choice.
+
+  Features:
+
+  - Nested Sequences
+
+  - Configurable interface and shortcuts
+
+  - Scopes: Histogram, Vectorscope, RGB Parade, Waveform and Audio Meter
+
+  - Proxy editing
+
+  - Free online assets and templates
+
+  - Motion tracking
+
+  - AI powered tools
+images:
+  - text: "Kdenlive"
+    link: "https://kdenlive.org/k1_2979239690662228430_hu_948d68c2c89e727a.webp"
+categories:
+  - PRODUCTION
+age_rating:
+  money: false
+  social: false
+  substances: false
+  violence: false
+license: GPLv2
+repository: gh:KDE/kdenlive
+platforms:
+  linux64: fpak:org.kde.kdenlive
+  linuxArm: fpak:org.kde.kdenlive
+  mac64: null
+  macArm: null
+  win64: null
+telemetry: false
+accent: "#527eb2"
