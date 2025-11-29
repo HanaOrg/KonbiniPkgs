@@ -13,9 +13,13 @@ desc: |
   A simple app to manage your inventory.
 
   - Takes very little storage.
+
   - Quickly visualize and edit stock of any item.
+
   - See alerts for items running out.
+
   - Generate barcodes (and export them as images!) for any item.
+
   - Turn your inventory into an Excel, CSV, or JSON file.
 
   All of this from your local machine, with a good looking UI.

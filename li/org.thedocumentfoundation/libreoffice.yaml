@@ -6,11 +6,11 @@ bs: true
 repository: gh:LibreOffice/core
 type: "gui"
 platforms:
-    linux64: "snap:libreoffice"
-    linuxArm: "snap:libreoffice"
-    mac64: "brew-k:libreoffice"
-    macArm: "brew-k:libreoffice"
-    win64: "wget:TheDocumentFoundation.LibreOffice"
+  linux64: "snap:libreoffice"
+  linuxArm: "snap:libreoffice"
+  mac64: "brew-k:libreoffice"
+  macArm: "brew-k:libreoffice"
+  win64: "wget:TheDocumentFoundation.LibreOffice"
 name: "LibreOffice"
 slogan: "Your private, free office suite"
 desc: "LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity."
@@ -20,12 +20,12 @@ icon: null
 homepage: "https://www.libreoffice.org/"
 docs: "https://documentation.libreoffice.org/"
 categories:
-    - "OFFICE"
+  - "OFFICE"
 age_rating:
-    money: false
-    social: false
-    substances: false
-    violence: false
+  money: false
+  social: false
+  substances: false
+  violence: false
 telemetry: false
 privacy: https://www.libreoffice.org/about-us/privacy/privacy-policy-en/
 terms: https://www.libreoffice.org/about-us/licenses

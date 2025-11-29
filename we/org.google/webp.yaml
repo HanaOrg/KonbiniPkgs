@@ -6,11 +6,11 @@ bs: true
 repository: null
 type: "cli"
 platforms:
-    linux64: "brew:webp"
-    linuxArm: "brew:webp"
-    mac64: "brew:webp"
-    macArm: "brew:webp"
-    win64: null
+  linux64: "brew:webp"
+  linuxArm: "brew:webp"
+  mac64: "brew:webp"
+  macArm: "brew:webp"
+  win64: null
 name: "WebP"
 slogan: "An image format for the Web."
 desc: >
@@ -28,11 +28,11 @@ icon: "https://developers.google.com/static/speed/webp/images/webp-devsite-icon_
 homepage: "https://developers.google.com/speed/webp/"
 docs: "https://developers.google.com/speed/webp/docs/using"
 categories:
-    - "DEVELOPMENT"
+  - "DEVELOPMENT"
 age_rating:
-    money: false
-    social: false
-    substances: false
-    violence: false
+  money: false
+  social: false
+  substances: false
+  violence: false
 telemetry: false
 accent: "#7ed32a"

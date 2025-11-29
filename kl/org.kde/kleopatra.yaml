@@ -12,15 +12,15 @@ docs: https://docs.kde.org/?application=kleopatra
 icon: https://apps.kde.org/app-icons/org.kde.kleopatra.svg
 desc: Kleopatra is an open-source certificate manager and graphical front-end for cryptographic services, primarily designed to handle OpenPGP and S/MIME (X.509) certificates. Part of the KDE ecosystem, it provides an accessible interface for managing encryption keys, signing and verifying data, and encrypting or decrypting files and emails.
 images:
-  - text: Key Management 
+  - text: Key Management
     link: https://apps.kde.org/screenshots/kleopatra/certificates.png
-  - text: Data Encryption and Decryption 
+  - text: Data Encryption and Decryption
     link: https://apps.kde.org/screenshots/kleopatra/file-encryption.png
   - text: Support for OpenPGP and S/MIME
     link: https://apps.kde.org/screenshots/kleopatra/details.png
   - text: Support for OpenPGP and PIV Smartcards
     link: https://apps.kde.org/screenshots/kleopatra/smartcard.png
-  - text: Integration and Usability 
+  - text: Integration and Usability
     link: https://apps.kde.org/screenshots/kleopatra/dolphin-integration.png
   - text: User-Friendly Interface
     link: https://apps.kde.org/screenshots/kleopatra/notepad.png

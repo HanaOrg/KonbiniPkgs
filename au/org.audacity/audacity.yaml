@@ -6,11 +6,11 @@ bs: true
 repository: gh:audacity/audacity
 type: "gui"
 platforms:
-    linux64: "snap:audacity"
-    linuxArm: "snap:audacity"
-    mac64: "brew-k:audacity"
-    macArm: "brew-k:audacity"
-    win64: "wget:Audacity.Audacity"
+  linux64: "snap:audacity"
+  linuxArm: "snap:audacity"
+  mac64: "brew-k:audacity"
+  macArm: "brew-k:audacity"
+  win64: "wget:Audacity.Audacity"
 name: "Audacity"
 slogan: "Audacity is the world's most popular audio editing and recording app."
 desc: "Audacity is a free, easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems."
@@ -20,11 +20,11 @@ icon: null
 homepage: "https://audacityteam.org/"
 docs: "https://manual.audacityteam.org/"
 categories:
-    - "PRODUCTION"
+  - "PRODUCTION"
 age_rating:
-    money: false
-    social: false
-    substances: false
-    violence: false
+  money: false
+  social: false
+  substances: false
+  violence: false
 telemetry: false
 privacy: https://www.audacityteam.org/desktop-privacy-notice/

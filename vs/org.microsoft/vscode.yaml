@@ -6,11 +6,11 @@ bs: true
 repository: gh:microsoft/vscode
 type: "gui"
 platforms:
-    linux64: "snap:code"
-    linuxArm: null # doesn't appear in SnapCraft
-    mac64: "brew-k:visual-studio-code"
-    macArm: "brew-k:visual-studio-code"
-    win64: "wget:Microsoft.VisualStudioCode"
+  linux64: "snap:code"
+  linuxArm: null # doesn't appear in SnapCraft
+  mac64: "brew-k:visual-studio-code"
+  macArm: "brew-k:visual-studio-code"
+  win64: "wget:Microsoft.VisualStudioCode"
 name: "Visual Studio Code"
 slogan: "Code editing, redefined."
 desc: "Microsoft Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Microsoft Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows."
@@ -33,12 +33,12 @@ requirements:
 homepage: "https://code.visualstudio.com"
 docs: "https://code.visualstudio.com/docs"
 categories:
-    - "DEVELOPMENT"
+  - "DEVELOPMENT"
 age_rating:
-    money: false
-    social: false
-    substances: false
-    violence: false
+  money: false
+  social: false
+  substances: false
+  violence: false
 telemetry: true # (VSCode official releases include Microsoft telemetry)
 terms: https://code.visualstudio.com/license
 privacy: https://www.microsoft.com/en-us/privacy/privacystatement

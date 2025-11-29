@@ -6,12 +6,12 @@ bs: true
 repository: gh:obsidianmd/obsidian-releases
 type: "gui"
 platforms:
-    linux64: "snap:obsidian"
-    linuxArm: null # Doesn't appear on SnapCraft
-    # macOS could be supported as KBI, i think, gotta check
-    mac64: "brew-k:obsidian"
-    macArm: "brew-k:obsidian"
-    win64: "wget:Obsidian.Obsidian"
+  linux64: "snap:obsidian"
+  linuxArm: null # Doesn't appear on SnapCraft
+  # macOS could be supported as KBI, i think, gotta check
+  mac64: "brew-k:obsidian"
+  macArm: "brew-k:obsidian"
+  win64: "wget:Obsidian.Obsidian"
 name: "Obsidian"
 slogan: "Sharpen your thinking."
 desc: "Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files."
@@ -21,12 +21,12 @@ icon: null
 homepage: "https://obsidian.md/"
 docs: "https://help.obsidian.md/"
 categories:
-    - "OFFICE"
+  - "OFFICE"
 age_rating:
-    money: false
-    social: false
-    substances: false
-    violence: false
+  money: false
+  social: false
+  substances: false
+  violence: false
 telemetry: false
 privacy: https://obsidian.md/privacy
 terms: https://obsidian.md/terms

@@ -6,11 +6,11 @@ bs: true
 repository: gh:GNOME/gimp # mirror, but still works
 type: "gui"
 platforms:
-    linux64: "snap:gimp"
-    linuxArm: "snap:gimp"
-    mac64: "brew-k:gimp"
-    macArm: "brew-k:gimp"
-    win64: "wget:GIMP.GIMP"
+  linux64: "snap:gimp"
+  linuxArm: "snap:gimp"
+  mac64: "brew-k:gimp"
+  macArm: "brew-k:gimp"
+  win64: "wget:GIMP.GIMP"
 name: "GIMP"
 slogan: "GNU Image Manipulation Program"
 desc: "GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring."
@@ -20,11 +20,11 @@ icon: null
 homepage: "https://www.gimp.org/"
 docs: "https://docs.gimp.org/"
 categories:
-    - "PRODUCTION"
+  - "PRODUCTION"
 age_rating:
-    money: false
-    social: false
-    substances: false
-    violence: false
+  money: false
+  social: false
+  substances: false
+  violence: false
 telemetry: false
 privacy: https://www.gimp.org/about/privacy.html

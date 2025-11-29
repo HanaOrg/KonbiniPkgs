@@ -6,22 +6,22 @@ bs: true
 repository: "gh:microsoft/PowerToys"
 type: "gui"
 platforms:
-    linux64: null
-    linuxArm: null
-    mac64: null
-    macArm: null
-    win64: "wget:Microsoft.PowerToys"
+  linux64: null
+  linuxArm: null
+  mac64: null
+  macArm: null
+  win64: "wget:Microsoft.PowerToys"
 name: "PowerToys"
 slogan: "Windows system utilities to maximize productivity."
 desc: |
-    Microsoft PowerToys is a set of free Microsoft Windows utilities for power users to tune and streamline their Windows experience for greater productivity. These utilities and shell enhancement tools are designed to help you customize Windows 10 and Windows 11 to suit your needs.
+  Microsoft PowerToys is a set of free Microsoft Windows utilities for power users to tune and streamline their Windows experience for greater productivity. These utilities and shell enhancement tools are designed to help you customize Windows 10 and Windows 11 to suit your needs.
 requirements:
   os_ver:
     win: "Windows 10 or later"
 images:
   - text: Always On Top enables you to pin windows above other windows with a quick key shortcut.
     link: https://learn.microsoft.com/en-us/windows/images/pt-always-on-top.png
-  - text: Use Screen Ruler to quickly measure pixels on your screen based on image edge detection. 
+  - text: Use Screen Ruler to quickly measure pixels on your screen based on image edge detection.
     link: https://learn.microsoft.com/en-us/windows/images/pt-screen-ruler.png
   - text: Use PowerRename to perform bulk renaming; searching and replacing file names. It includes advanced features, such as using regular expressions, targeting specific file types, previewing expected results, and the ability to undo changes.
     link: https://learn.microsoft.com/en-us/windows/images/pt-rename.png
@@ -40,11 +40,11 @@ icon: https://raw.githubusercontent.com/microsoft/PowerToys/fed6e523b6c59e90bef9
 homepage: "https://github.com/microsoft/PowerToys"
 docs: "https://learn.microsoft.com/en-us/windows/powertoys/"
 categories:
-    - "PRODUCTIVITY"
+  - "PRODUCTIVITY"
 age_rating:
-    money: false
-    social: false
-    substances: false
-    violence: false
+  money: false
+  social: false
+  substances: false
+  violence: false
 telemetry: true # (just as VSCode, the official release includes telemetry)
 privacy: https://github.com/microsoft/PowerToys/blob/main/DATA_AND_PRIVACY.md

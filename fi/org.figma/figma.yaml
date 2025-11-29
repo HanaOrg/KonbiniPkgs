@@ -6,11 +6,11 @@ bs: true
 repository: null
 type: "gui"
 platforms:
-    linux64: null
-    linuxArm: null
-    mac64: "brew-k:figma"
-    macArm: "brew-k:figma"
-    win64: "wget:Figma.Figma"
+  linux64: null
+  linuxArm: null
+  mac64: "brew-k:figma"
+  macArm: "brew-k:figma"
+  win64: "wget:Figma.Figma"
 name: "Figma"
 slogan: "The collaborative interface design tool."
 desc: "Build better products as a team. Design, prototype, and gather feedback all in one place with Figma."
@@ -20,12 +20,12 @@ icon: null
 homepage: "https://figma.com"
 docs: "https://help.figma.com/hc/en-us"
 categories:
-    - "PRODUCTION"
+  - "PRODUCTION"
 age_rating:
-    money: true
-    social: false
-    substances: false
-    violence: false
+  money: true
+  social: false
+  substances: false
+  violence: false
 telemetry: true # (obvious)
 privacy: https://www.figma.com/legal/privacy/
 terms: https://www.figma.com/legal/tos/

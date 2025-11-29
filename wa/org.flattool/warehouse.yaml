@@ -14,13 +14,21 @@ desc: >
   Features:
 
   - Manage installed Flatpaks and view properties of any package
+
   - Change versions of a Flatpak to rollback any unwanted updates
+
   - Pin runtimes and mask Flatpaks
+
   - Filter packages and sort data, to help find anything easily
+
   - See current app user data, and cleanup any unused data left behind
+
   - Add popular Flatpak remotes with a few clicks or add custom remotes instead
+
   - Take snapshots of your apps' user data, saving your data
+
   - Install new packages from any remote, or from your system
+
   - Responsive UI to fit large and small screen sizes
 categories:
   - SYSTEM_UTIL

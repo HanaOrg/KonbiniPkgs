@@ -6,11 +6,11 @@ bs: true
 repository: gl:inkscape/inkscape
 type: "gui"
 platforms:
-    linux64: "snap:inkscape"
-    linuxArm: "snap:inkscape"
-    mac64: "brew-k:inkscape"
-    macArm: "brew-k:inkscape"
-    win64: "wget:Inkscape.Inkscape"
+  linux64: "snap:inkscape"
+  linuxArm: "snap:inkscape"
+  mac64: "brew-k:inkscape"
+  macArm: "brew-k:inkscape"
+  win64: "wget:Inkscape.Inkscape"
 name: "Inkscape"
 slogan: "Draw freely."
 desc: "Inkscape is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics (SVG) format. Other formats can be imported and exported."
@@ -20,12 +20,12 @@ icon: null
 homepage: "https://inkscape.org/"
 docs: "https://inkscape.org/learn/"
 categories:
-    - "PRODUCTION"
+  - "PRODUCTION"
 age_rating:
-    money: false
-    social: false
-    substances: false
-    violence: false
+  money: false
+  social: false
+  substances: false
+  violence: false
 telemetry: false
 terms: https://inkscape.org/about/license/
 privacy: https://inkscape.org/about/privacy/

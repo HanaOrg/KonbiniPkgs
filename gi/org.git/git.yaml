@@ -6,11 +6,11 @@ bs: true
 repository: gh:git/git
 type: "cli"
 platforms:
-    linux64: "apt:git"
-    linuxArm: "apt:git"
-    mac64: "brew:git"
-    macArm: "brew:git"
-    win64: "wget:Git.Git"
+  linux64: "apt:git"
+  linuxArm: "apt:git"
+  mac64: "brew:git"
+  macArm: "brew:git"
+  win64: "wget:Git.Git"
 name: "Git"
 slogan: "Git - fast, scalable, distributed revision control system."
 desc: "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.\nGit is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows."
@@ -20,12 +20,12 @@ icon: null
 homepage: "https://git-scm.com/"
 docs: "https://git-scm.com/docs"
 categories:
-    - "DEVELOPMENT"
-    - "PRODUCTIVITY"
+  - "DEVELOPMENT"
+  - "PRODUCTIVITY"
 age_rating:
-    money: false
-    social: false
-    substances: false
-    violence: false
+  money: false
+  social: false
+  substances: false
+  violence: false
 telemetry: false
 accent: "#eb4d28"

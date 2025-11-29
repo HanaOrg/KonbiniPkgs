@@ -12,8 +12,11 @@ desc: >
   Concessio helps you understand and convert between unix permissions representations
 
   - Convert between symbolic and numeric representations of UNIX file permissions
+
   - Use toggle buttons to update the symbolic and numeric fields
+
   - Open a file to read it's permissions and convert them
+
   - Open the help dialog to read and understand the UNIX permissions system
 images:
   - text: "Concessio main page"

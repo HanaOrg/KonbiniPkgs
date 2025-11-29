@@ -15,10 +15,15 @@ desc: >
   Features:
 
   - Tabs
+
   - Multiple profiles
+
   - Silence and Activity monitoring
+
   - Bookmark support
+
   - Searching
+
   - Saving output
 images:
   - text: "Konsole"

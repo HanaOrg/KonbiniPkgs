@@ -6,11 +6,11 @@ bs: true
 repository: gh:rocksdanister/lively
 type: "gui"
 platforms:
-    linux64: null
-    linuxArm: null
-    mac64: null
-    macArm: null
-    win64: "wget:rocksdanister.LivelyWallpaper"
+  linux64: null
+  linuxArm: null
+  mac64: null
+  macArm: null
+  win64: "wget:rocksdanister.LivelyWallpaper"
 name: "Lively Wallpaper"
 slogan: "Free and open-source software that allows users to set animated desktop wallpapers and screensavers."
 desc: "Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3."
@@ -20,11 +20,11 @@ icon: null
 homepage: "https://www.rocksdanister.com/lively/"
 docs: "https://github.com/rocksdanister/lively/wiki/Getting-Started"
 categories:
-    - "CUSTOMIZATION"
+  - "CUSTOMIZATION"
 age_rating:
-    money: false
-    social: false
-    substances: false
-    violence: false
+  money: false
+  social: false
+  substances: false
+  violence: false
 telemetry: false
 privacy: https://github.com/rocksdanister/lively/blob/core-separation/PRIVACY.md

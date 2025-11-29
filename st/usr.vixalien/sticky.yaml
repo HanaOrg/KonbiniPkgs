@@ -17,8 +17,11 @@ desc: >
   Current features:
 
   - simple formatting (bold, italic, underline and strikethrough)
+
   - notes are restored if they were open when the application was closed
+
   - changing color of notes
+
   - dark theme support
 license: MIT
 repository: gh:vixalien/sticky
