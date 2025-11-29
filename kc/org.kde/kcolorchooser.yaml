@@ -1,0 +1,31 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Konsole
+author: org.kde
+type: gui
+slogan: Color selector and palette editor
+homepage: https://apps.kde.org/kcolorchooser
+icon: https://apps.kde.org/app-icons/org.kde.kcolorchooser.svg
+desc: "KColorChooser is a color palette tool, used to mix colors and create custom color palettes. Using the dropper, it can obtain the color of any pixel on the screen. A number of common color palettes are included, such as the standard Web colors and the Oxygen color scheme."
+images:
+  - text: "KColorChooser"
+    link: "https://cdn.kde.org/screenshots/kcolorchooser/kcolorchooser.png"
+categories:
+  - SYSTEM_UTIL
+age_rating:
+  money: false
+  social: false
+  substances: false
+  violence: false
+license: GPLv2
+repository: gh:KDE/kcolorchooser
+platforms:
+  linux64: fpak:org.kde.kcolorchooser
+  linuxArm: fpak:org.kde.kcolorchooser
+  mac64: null
+  macArm: null
+  win64: null
+telemetry: false

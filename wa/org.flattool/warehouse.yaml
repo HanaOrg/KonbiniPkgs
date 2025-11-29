@@ -1,0 +1,43 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Warehouse
+author: org.flattool
+type: gui
+slogan: Manage all things Flatpak
+icon: https://raw.githubusercontent.com/flattool/warehouse/refs/heads/main/data/icons/hicolor/scalable/apps/io.github.flattool.Warehouse.svg
+desc: >
+  Warehouse provides a simple UI to control complex Flatpak options, all without resorting to the command line.
+
+  Features:
+
+  - Manage installed Flatpaks and view properties of any package
+  - Change versions of a Flatpak to rollback any unwanted updates
+  - Pin runtimes and mask Flatpaks
+  - Filter packages and sort data, to help find anything easily
+  - See current app user data, and cleanup any unused data left behind
+  - Add popular Flatpak remotes with a few clicks or add custom remotes instead
+  - Take snapshots of your apps' user data, saving your data
+  - Install new packages from any remote, or from your system
+  - Responsive UI to fit large and small screen sizes
+categories:
+  - SYSTEM_UTIL
+  - EFFICIENCY
+  - DEVELOPMENT
+age_rating:
+  money: false
+  social: false
+  substances: false
+  violence: false
+license: GPLv3
+repository: gh:flattool/warehouse
+platforms:
+  linux64: fpak:io.github.flattool.Warehouse
+  linuxArm: fpak:io.github.flattool.Warehouse
+  mac64: null
+  macArm: null
+  win64: null
+telemetry: false
+accent: "#629eea"

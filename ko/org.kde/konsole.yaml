@@ -1,0 +1,42 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Konsole
+author: org.kde
+type: gui
+slogan: Use the command line interface
+homepage: https://apps.kde.org/konsole
+icon: https://apps.kde.org/app-icons/org.kde.konsole.svg
+desc: >
+  Konsole is a terminal to run a command shell. It provides a command line interface for directly controlling your computer.
+
+  Features:
+
+  - Tabs
+  - Multiple profiles
+  - Silence and Activity monitoring
+  - Bookmark support
+  - Searching
+  - Saving output
+images:
+  - text: "Konsole"
+    link: "https://cdn.kde.org/screenshots/konsole/konsole.png"
+categories:
+  - PRODUCTIVITY
+age_rating:
+  money: false
+  social: false
+  substances: false
+  violence: false
+license: GPLv2
+repository: gh:KDE/konsole
+platforms:
+  linux64: fpak:org.kde.konsole
+  linuxArm: fpak:org.kde.konsole
+  mac64: null
+  macArm: null
+  win64: null
+telemetry: false
+accent: "#4b5756"

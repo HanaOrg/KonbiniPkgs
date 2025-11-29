@@ -1,0 +1,45 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Folio
+author: usr.toolstack
+homepage: https://toolstack.com/folio
+type: gui
+slogan: Beautiful markdown note-taking app
+icon: https://raw.githubusercontent.com/toolstack/Folio/refs/heads/main/data/icons/hicolor/scalable/apps/com.toolstack.Folio.svg
+desc: >
+  Create notebooks and take notes in markdown
+
+  Some features include:
+
+  - Almost WYSIWYG markdown rendering
+  - Searchable through GNOME search
+  - Highlight and strikethrough text formatting
+  - App themeing based on notebook color
+  - Trash can
+  - Markdown document
+  - Optional line numbers
+  - Optional auto save
+  - Open links with Control-Click
+  - Link to other notes in Folio
+  - Automatically create links for bare URL's and e-mail addresses
+categories:
+  - OFFICE
+  - PRODUCTIVITY
+age_rating:
+  money: false
+  social: false
+  substances: false
+  violence: false
+license: GPLv3
+repository: gh:toolstack/Folio
+platforms:
+  linux64: fpak:com.toolstack.Folio
+  linuxArm: fpak:com.toolstack.Folio
+  mac64: null
+  macArm: null
+  win64: null
+telemetry: false
+accent: "#6ce3a9"

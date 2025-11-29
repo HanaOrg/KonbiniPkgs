@@ -1,0 +1,37 @@
+# Highly relevant packages like this one are added by Konbini itself, not their owners.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Sticky Notes
+author: usr.vixalien
+type: gui
+slogan: Pin notes to your desktop
+categories:
+  - PERSONAL
+  - OFFICE
+icon: https://raw.githubusercontent.com/vixalien/sticky/refs/heads/main/data/icons/hicolor/scalable/apps/com.vixalien.sticky.svg
+desc: >
+  Sticky Notes is a simple sticky notes app for GNOME. It allows you to create notes and format them.
+
+  Current features:
+
+  - simple formatting (bold, italic, underline and strikethrough)
+  - notes are restored if they were open when the application was closed
+  - changing color of notes
+  - dark theme support
+license: MIT
+repository: gh:vixalien/sticky
+age_rating:
+  money: false
+  social: false
+  substances: false
+  violence: false
+platforms:
+  linux64: fpak:com.vixalien.sticky
+  linuxArm: fpak:com.vixalien.sticky
+  mac64: null
+  macArm: null
+  win64: null
+telemetry: false
+accent: "#f9ef7e"

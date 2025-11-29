@@ -1,0 +1,37 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Concessio
+author: usr.ronniedroid
+type: gui
+slogan: Understand file permissions
+icon: https://raw.githubusercontent.com/ronniedroid/concessio/refs/heads/main/data/icons/io.github.ronniedroid.concessio.svg
+desc: >
+  Concessio helps you understand and convert between unix permissions representations
+
+  - Convert between symbolic and numeric representations of UNIX file permissions
+  - Use toggle buttons to update the symbolic and numeric fields
+  - Open a file to read it's permissions and convert them
+  - Open the help dialog to read and understand the UNIX permissions system
+images:
+  - text: "Concessio main page"
+    link: "https://raw.githubusercontent.com/ronniedroid/concessio/refs/heads/main/data/screenshots/main-page.png"
+categories:
+  - SYSTEM_UTIL
+age_rating:
+  money: false
+  social: false
+  substances: false
+  violence: false
+license: GPLv3
+repository: gh:ronniedroid/concessio
+platforms:
+  linux64: fpak:io.github.ronniedroid.concessio
+  linuxArm: fpak:io.github.ronniedroid.concessio
+  mac64: null
+  macArm: null
+  win64: null
+telemetry: false
+accent: "#57e288"

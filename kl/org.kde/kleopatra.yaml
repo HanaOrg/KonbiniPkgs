@@ -1,4 +1,6 @@
-# Highly relevant packages like this one are added by Konbini itself, not their owners.
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
 # If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
 # If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
 name: Kleopatra
