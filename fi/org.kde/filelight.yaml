@@ -1,0 +1,23 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Filelight
+type: gui
+slogan: Show disk usage and delete unused files
+desc: "<p>\n      Filelight is an application to visualize the disk usage on your computer by showing folders using an easy-to-understand view of concentric rings. Filelight makes it simple to free up space!\n    </p>\n      <p>Features:</p>\n      <ul>\n        <li>Scan local, remote, or removable disks</li>\n        <li>View detailed information about files and folders</li>\n        <li>Delete files or folders that are taking up too much space</li>\n        <li>Integration into the Dolphin, Konqueror, and Krusader file managers</li>\n        <li>Configurable color schemes</li>\n      </ul>"
+platforms:
+  mac64: null
+  macArm: null
+  win64: null
+  linux64: "fpak:org.kde.filelight"
+  linuxArm: "fpak:org.kde.filelight"
+icon: https://dl.flathub.org/media/org/kde/filelight.desktop/b3433c5076330b83efd30e1a5cf4f279/icons/128x128/org.kde.filelight.desktop.png
+images:
+  - text: null
+    link: https://dl.flathub.org/media/org/kde/filelight.desktop/b3433c5076330b83efd30e1a5cf4f279/screenshots/image-1_orig.webp
+homepage: https://apps.kde.org/filelight
+docs: https://docs.kde.org/?application=filelight
+repo: null
+author_id: org.kde

@@ -1,0 +1,30 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Spruce
+type: gui
+slogan: Reclaim disk space
+desc: "<p>Spruce is a lightweight cache cleaner and system maintenance tool designed for GNU/Linux. It helps keep your system fresh by clearing unneeded caches, logs, and temporary files in a clean, Adwaita-based GTK interface.</p>\n      <ul>\n        <li>Scan common cache locations</li>\n        <li>Detect unused Flatpak runtimes and data</li>\n        <li>Preview exactly what will be removed</li>\n        <li>Clean with a single click</li>\n      </ul>"
+accent: "#60d267"
+platforms:
+  mac64: null
+  macArm: null
+  win64: null
+  linux64: "fpak:io.github.shonubot.Spruce"
+  linuxArm: "fpak:io.github.shonubot.Spruce"
+icon: https://dl.flathub.org/media/io/github/shonubot.Spruce/bac6228ed26da982dd98200e691ffff2/icons/128x128/io.github.shonubot.Spruce.png
+images:
+  - text: Main view (Light theme)
+    link: https://dl.flathub.org/media/io/github/shonubot.Spruce/bac6228ed26da982dd98200e691ffff2/screenshots/image-1_orig.webp
+  - text: Cleaning menu (Light theme)
+    link: https://dl.flathub.org/media/io/github/shonubot.Spruce/bac6228ed26da982dd98200e691ffff2/screenshots/image-2_orig.webp
+  - text: Main view (Dark theme)
+    link: https://dl.flathub.org/media/io/github/shonubot.Spruce/bac6228ed26da982dd98200e691ffff2/screenshots/image-3_orig.webp
+  - text: Cleaning menu (Dark theme)
+    link: https://dl.flathub.org/media/io/github/shonubot.Spruce/bac6228ed26da982dd98200e691ffff2/screenshots/image-4_orig.webp
+homepage: https://github.com/shonubot/Spruce
+docs: null
+repo: gh:shonubot/Spruce
+author_id: usr.shonubot

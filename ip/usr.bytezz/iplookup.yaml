@@ -1,0 +1,26 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: IP Lookup
+type: gui
+slogan: Find info about an IP address
+desc: "<p>Look up details such as the internet provider and geographic location for an IP address.</p>"
+accent: "#123d72"
+platforms:
+  mac64: null
+  macArm: null
+  win64: null
+  linux64: "fpak:io.github.bytezz.IPLookup"
+  linuxArm: "fpak:io.github.bytezz.IPLookup"
+icon: https://dl.flathub.org/media/io/github/bytezz.IPLookup/89fdf0cc2e79f2246d3268b1c4bcc361/icons/128x128/io.github.bytezz.IPLookup.png
+images:
+  - text: Main Window Network
+    link: https://dl.flathub.org/media/io/github/bytezz.IPLookup/89fdf0cc2e79f2246d3268b1c4bcc361/screenshots/image-1_orig.webp
+  - text: Main Window Geo
+    link: https://dl.flathub.org/media/io/github/bytezz.IPLookup/89fdf0cc2e79f2246d3268b1c4bcc361/screenshots/image-2_orig.webp
+homepage: https://github.com/bytezz/iplookup-gtk
+docs: null
+repo: gh:bytezz/iplookup-gtk
+author_id: usr.bytezz

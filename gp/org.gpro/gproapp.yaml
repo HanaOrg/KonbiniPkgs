@@ -1,0 +1,40 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: GPRO
+type: gui
+slogan: Manage your racing team
+desc: "<p>\n      GPRO is a global classic long term racing strategy game where your planning, money management and data collection skills are being put to the test. The aim of the game is to reach the top Elite group and win the world championship. But to do so you will need to progress through the levels with many ups and downs. You will be managing a racing driver and a car and you will be in charge of preparing setups and strategy for the race, much like Christian Horner or Toto Wolff do in Formula 1. It will be your job to give your driver the best car, while working with your staff, but you will also have to spend your money wisely. Collect telemetry data from the races you do in order to improve your game and give yourself an advantage over your rivals next time you visit a certain track.\n    </p>\n      <p>\n      You can also join together with your friends to form an alliance and compete in the teams championship, while working together to improve your understanding of the game.\n    </p>\n      <p>\n      Each season in the game spans over roughly 2 months with races being simulated live two times per week (Tuesday and Friday from 20:00 CET). While the game does not require you to be online during the races to participate, watching them unfold live and chatting to fellow managers adds to the fun. In case you miss a live race, you can view a replay of the race at any time.\n    </p>\n      <p>\n      If you are a big fan of F1 and motorsports and like manager and multiplayer games, then join now for free and be part of a fantastic game and a great and friendly motorsport community!\n    </p>"
+accent: "#1b2d47"
+platforms:
+  mac64: null
+  macArm: null
+  win64: null
+  linux64: "fpak:net.gpro.gproapp"
+  linuxArm: "fpak:net.gpro.gproapp"
+icon: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/icons/128x128/net.gpro.gproapp.png
+images:
+  - text: Race view
+    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-1_orig.webp
+  - text: Race view of a different track
+    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-2_orig.webp
+  - text: Fine tuning the car setup during practice laps
+    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-3_orig.webp
+  - text: "Driver profile showing his skillset, training options, contract, history and more"
+    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-4_orig.webp
+  - text: Matching your car and setup to the track characteristics is key to scoring a fast lap
+    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-5_orig.webp
+  - text: Updating your car components after every race keeps the technical problems away
+    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-6_orig.webp
+  - text: Make your ride more colorful and enjoyable with a wide selection of repaintable helmets
+    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-7_orig.webp
+  - text: Make your ride more colorful and enjoyable with a wide selection of car liveries
+    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-8_orig.webp
+  - text: Keep an eye on the grid and pace of your opponents to anticipate their strategy before the race
+    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-9_orig.webp
+homepage: https://gpro.net
+docs: https://gpro.net/help.asp
+repo: null
+author_id: org.gpro

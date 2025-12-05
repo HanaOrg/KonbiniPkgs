@@ -1,0 +1,33 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Manuals
+type: gui
+slogan: Read developer documentation
+desc: "<p>\n      Manuals indexes your developer manuals and provides robust browsing\n      and searching capabilities.\n    </p>\n      <p>\n      It supports the devhelp documentation format used by many libraries\n      integrating with the GTK platform.\n    </p>"
+accent: "#813d9c"
+platforms:
+  mac64: null
+  macArm: null
+  win64: null
+  linux64: "fpak:app.devsuite.Manuals"
+  linuxArm: "fpak:app.devsuite.Manuals"
+icon: https://dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/icons/128x128/app.devsuite.Manuals.png
+images:
+  - text: Browse Documentation by SDK
+    link: https://dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-1_orig.webp
+  - text: Free Form Search
+    link: https://dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-2_orig.webp
+  - text: Install SDK Documentation
+    link: https://dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-3_orig.webp
+  - text: Integrated Dark Mode
+    link: https://dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-4_orig.webp
+  - text: Mobile Search
+    link: https://dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-5_orig.webp
+  - text: Adaptable Documentation
+    link: https://dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-6_orig.webp
+homepage: https://apps.gnome.org/Manuals/
+repo: null
+author_id: org.devsuite

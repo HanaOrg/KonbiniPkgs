@@ -1,0 +1,28 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Binary
+type: gui
+slogan: Convert numbers between bases
+desc: "<p>A small and simple app used to convert between different hexadecimal and binary numbers</p>"
+accent: "#155a3a"
+platforms:
+  mac64: null
+  macArm: null
+  win64: null
+  linux64: "fpak:io.github.fizzyizzy05.binary"
+  linuxArm: "fpak:io.github.fizzyizzy05.binary"
+icon: https://dl.flathub.org/media/io/github/fizzyizzy05.binary/d5c1f8db63782a2ab910d0d87376c13b/icons/128x128/io.github.fizzyizzy05.binary.png
+images:
+  - text: Binary window converting 101010 in binary to 42 in decimal
+    link: https://dl.flathub.org/media/io/github/fizzyizzy05.binary/d5c1f8db63782a2ab910d0d87376c13b/screenshots/image-1_orig.webp
+  - text: Binary window converting 1201 in decimal to 4B1 in hexadecimal
+    link: https://dl.flathub.org/media/io/github/fizzyizzy05.binary/d5c1f8db63782a2ab910d0d87376c13b/screenshots/image-2_orig.webp
+  - text: Binary window converting 17 in octal to F in hexadecimal
+    link: https://dl.flathub.org/media/io/github/fizzyizzy05.binary/d5c1f8db63782a2ab910d0d87376c13b/screenshots/image-3_orig.webp
+homepage: https://apps.gnome.org/Binary/
+docs: null
+repo: gh:fizzyizzy05/binary
+author_id: usr.fizzyizzy05

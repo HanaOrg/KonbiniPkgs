@@ -1,0 +1,36 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: KDE Itinerary
+type: gui
+slogan: Digital travel assistant
+desc: "<p>KDE Itinerary is a digital travel assistant with a priority on protecting your privacy.</p>\n      <p>Features:</p>\n      <ul>\n        <li>Timeline view of a unified travel itinerary with automatic trip grouping.</li>\n        <li>Supports train, bus and flight bookings as well as hotel, restaurant, event and rental car reservations.</li>\n        <li>Boarding pass management.</li>\n        <li>Supports ticket management for multi-traveler and multi-ticket bookings.</li>\n        <li>Automatic booking data extraction from various input formats, performed locally on your device.</li>\n        <li>Real-time delay and platform change information for trains.</li>\n        <li>Weather forecast for destination along your trip.</li>\n        <li>Full control over all online access.</li>\n        <li>Selection of alternative train connections on unbound tickets or on missed connections.</li>\n        <li>Local ground transportation navigation between elements of your itinerary.</li>\n        <li>Train coach layout view (for some operators only).</li>\n        <li>Train station and airport per-floor maps based on OpenStreetMap data.</li>\n        <li>Available dock-based or free-floating rental bikes can be displayed on the train station map.</li>\n        <li>Personal travel statistics to monitor environmental impact.</li>\n      </ul>\n      <p>KDE Itinerary works best alongside KMail's itinerary extraction plug-in and KDE Connect, or Nextcloud Hub and DavDroid.</p>"
+accent: "#17529b"
+platforms:
+  mac64: null
+  macArm: null
+  win64: null
+  linux64: "fpak:org.kde.itinerary"
+  linuxArm: "fpak:org.kde.itinerary"
+icon: https://dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/icons/128x128/org.kde.itinerary.png
+images:
+  - text: Timeline view
+    link: https://dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-1_orig.webp
+  - text: Boarding pass view
+    link: https://dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-2_orig.webp
+  - text: Train layout view highlighting the coach with a seat reservation
+    link: https://dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-3_orig.webp
+  - text: "Train station platform map, highlighting arrival and departure platforms"
+    link: https://dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-4_orig.webp
+  - text: Train station map showing real-time availability of rental bikes
+    link: https://dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-5_orig.webp
+  - text: Detailed information for the select entity on the train station map
+    link: https://dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-6_orig.webp
+  - text: Travel statistics view
+    link: https://dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-7_orig.webp
+homepage: https://apps.kde.org/itinerary
+docs: null
+repo: null
+author_id: org.kde

@@ -1,0 +1,42 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+repository: cb:hurrycurry/hurrycurry
+type: "gui"
+platforms:
+  linux64: "fpak:org.metamuffin.hurrycurry.client"
+  linuxArm: "fpak:org.metamuffin.hurrycurry.client"
+  mac64: null
+  macArm: null
+  win64: null
+images:
+  - link: https://hurrycurry.org/assets/images/screenshot-1-hq.webp
+  - link: https://hurrycurry.org/assets/images/screenshot-2-hq.webp
+  - link: https://hurrycurry.org/assets/images/screenshot-3-hq.webp
+  - link: https://hurrycurry.org/assets/images/screenshot-4-hq.webp
+name: "Hurry Curry!"
+slogan: "Multiplayer co-op cooking game."
+desc: >
+  *Hurry Curry!* is a cooperative multiplayer game about cooking. You work at a restaurant accepting orders, cooking various dishes and serving meals to customers. But don’t take too long, as customers might get impatient. The game is free software, licensed under the AGPL 3.0 only.
+
+  Customers enter your restaurant and order various meals. Your task is to assemble these meals by cutting, cooking, baking, searing and combining resources in the kitchen. Multitasking is crucial, but can lead to food burning or customers leaving if you take too long. There are many different restaurant/kitchen layouts to choose from.
+
+  Keyboard Controls: Move character with WASD. Move camera with arrow keys. Interact with Space or J. Boost with Left Shift or K. Open/close menus with Escape. Press Enter to open chat. Reset view with R.
+
+  Controller Controls: Move character with Left Stick. Move camera with Right Stick. Interact with A, Boost with B, Open/close menus with Menu button. Use keyboard for chat. Reset view with Y.
+
+  The game is primarily being developed by nokoe, metamuffin, tpart.
+license: "AGPLv3"
+author: "usr.metamuffin"
+icon: null
+homepage: "https://hurrycurry.org/"
+categories:
+  - "GAMING"
+age_rating:
+  money: false
+  social: false
+  substances: false
+  violence: false
+telemetry: false

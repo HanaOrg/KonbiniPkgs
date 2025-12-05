@@ -1,0 +1,26 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Brave
+type: gui
+slogan: "Fast Internet, AI, Adblock"
+desc: "<p>Brave is on a mission to fix the web by giving users a safer, faster and better browsing\n      experience while growing support for content creators through a new attention-based ecosystem\n      of rewards.</p>\n      <p>Browse faster by blocking ads and trackers that violate your privacy and cost you time and\n      money.</p>"
+accent: "#704646"
+platforms:
+  mac64: null
+  macArm: null
+  win64: null
+  linux64: "fpak:com.brave.Browser"
+  linuxArm: "fpak:com.brave.Browser"
+icon: https://dl.flathub.org/media/com/brave/Browser/819ea38c56aaf1aacdd67d5e5fc0fea4/icons/128x128/com.brave.Browser.png
+images:
+  - text: Welcome page of Brave
+    link: https://dl.flathub.org/media/com/brave/Browser/819ea38c56aaf1aacdd67d5e5fc0fea4/screenshots/image-1_orig.webp
+  - text: New tab page of Brave
+    link: https://dl.flathub.org/media/com/brave/Browser/819ea38c56aaf1aacdd67d5e5fc0fea4/screenshots/image-2_orig.webp
+homepage: https://brave.com
+docs: https://support.brave.com/hc/en-us
+repo: null
+author_id: org.brave

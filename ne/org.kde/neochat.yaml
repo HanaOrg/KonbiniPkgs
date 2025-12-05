@@ -1,0 +1,26 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: NeoChat
+type: gui
+slogan: Chat on Matrix
+desc: "<p>NeoChat is a chat app that lets you take full advantage of the Matrix network. It provides you with a secure way to send text messages, videos and audio files to your family, colleagues and friends.</p>\n      <p>NeoChat aims to be a fully featured application for the Matrix specification. As such everything in the current stable specification with the notable exceptions of VoIP, threads and some aspects of End-to-End Encryption are supported. There are a few other smaller omissions due to the fact that the Matrix spec is constantly evolving but the aim remains to provide eventual support for the entire spec.</p>\n      <p>Due to the nature of the Matrix specification development NeoChat also supports numerous unstable features. Currently these are:</p>\n      <ul>\n        <li>Polls - MSC3381</li>\n        <li>Sticker Packs - MSC2545</li>\n        <li>Location Events - MSC3488</li>\n      </ul>"
+accent: "#235670"
+platforms:
+  mac64: null
+  macArm: null
+  win64: null
+  linux64: "fpak:org.kde.neochat"
+  linuxArm: "fpak:org.kde.neochat"
+icon: https://dl.flathub.org/media/org/kde/neochat/c8e389ba1ef77449903688458e029065/icons/128x128/org.kde.neochat.png
+images:
+  - text: "Main view with room list, chat, and room information"
+    link: https://dl.flathub.org/media/org/kde/neochat/c8e389ba1ef77449903688458e029065/screenshots/image-1_orig.webp
+  - text: Discover new communities with Matrix Spaces
+    link: https://dl.flathub.org/media/org/kde/neochat/c8e389ba1ef77449903688458e029065/screenshots/image-2_orig.webp
+homepage: https://apps.kde.org/neochat
+docs: null
+repo: null
+author_id: org.kde

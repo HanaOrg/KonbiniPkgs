@@ -1,0 +1,30 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Gaphor
+type: gui
+slogan: Simple UML and SysML modeling tool
+desc: "<p>\n      Gaphor is a UML, SysML, RAAML, and C4 modeling application. It is\n      designed to be easy to use, while still being powerful. Gaphor implements\n      a fully-compliant UML 2 data model, so it is much more than a picture\n      drawing tool. You can use Gaphor to quickly visualize different aspects\n      of a system as well as create complete, highly complex models.\n    </p>\n      <p>\n      Gaphor provides four modeling languages: UML, SysML, RAAML and C4 and\n      makes them accessible to beginners.\n    </p>"
+accent: "#0f3f29"
+platforms:
+  mac64: null
+  macArm: null
+  win64: null
+  linux64: "fpak:org.gaphor.Gaphor"
+  linuxArm: "fpak:org.gaphor.Gaphor"
+icon: https://dl.flathub.org/media/org/gaphor/Gaphor/b751f280d752dadb178b5a960248b643/icons/128x128/org.gaphor.Gaphor.png
+images:
+  - text: The Gaphor main window
+    link: https://dl.flathub.org/media/org/gaphor/Gaphor/b751f280d752dadb178b5a960248b643/screenshots/image-1_orig.webp
+  - text: Sequence diagram
+    link: https://dl.flathub.org/media/org/gaphor/Gaphor/b751f280d752dadb178b5a960248b643/screenshots/image-2_orig.webp
+  - text: Customizable styling
+    link: https://dl.flathub.org/media/org/gaphor/Gaphor/b751f280d752dadb178b5a960248b643/screenshots/image-3_orig.webp
+  - text: Dark mode
+    link: https://dl.flathub.org/media/org/gaphor/Gaphor/b751f280d752dadb178b5a960248b643/screenshots/image-4_orig.webp
+homepage: https://gaphor.org
+docs: https://docs.gaphor.org
+repo: gh:gaphor/gaphor
+author_id: org.gaphor

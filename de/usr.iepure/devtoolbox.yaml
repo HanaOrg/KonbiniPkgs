@@ -1,0 +1,28 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Dev Toolbox
+type: gui
+slogan: Dev tools at your fingertips
+desc: "<p>If you're tired of endlessly looking online for the right tool, or to\n      find again that website of which you don't recall the name just for a quick\n      conversion, this is the right app for you.</p>\n      <p>This is a collection of powerful yet simple-to-use tools\n      to solve the most common daily development problems.</p>\n      <p>Includes:</p>\n      <ul>\n        <li>JSON to YAML converter and vice-versa</li>\n        <li>CRON expressions parser</li>\n        <li>GZip compressor and decompressor</li>\n        <li>Formatters for common programming languages</li>\n        <li>Hash generators</li>\n        <li>Regex tester</li>\n        <li>Markdown Previewer</li>\n        <li>Image converters</li>\n        <li>Much more...</li>\n      </ul>"
+accent: "#061d39"
+platforms:
+  mac64: null
+  macArm: null
+  win64: null
+  linux64: "fpak:me.iepure.devtoolbox"
+  linuxArm: "fpak:me.iepure.devtoolbox"
+icon: https://dl.flathub.org/media/me/iepure/devtoolbox/759d2f68c46a84c3f77f98d1e2ec84db/icons/128x128/me.iepure.devtoolbox.png
+images:
+  - text: null
+    link: https://dl.flathub.org/media/me/iepure/devtoolbox/759d2f68c46a84c3f77f98d1e2ec84db/screenshots/image-1_orig.webp
+  - text: null
+    link: https://dl.flathub.org/media/me/iepure/devtoolbox/759d2f68c46a84c3f77f98d1e2ec84db/screenshots/image-2_orig.webp
+  - text: null
+    link: https://dl.flathub.org/media/me/iepure/devtoolbox/759d2f68c46a84c3f77f98d1e2ec84db/screenshots/image-3_orig.webp
+homepage: https://github.com/aleiepure/devtoolbox
+docs: null
+repo: gh:aleiepure/devtoolbox
+author_id: usr.iepure

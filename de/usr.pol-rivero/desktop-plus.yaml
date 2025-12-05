@@ -1,0 +1,25 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Desktop Plus
+type: gui
+slogan: Git client with advanced functionality and Bitbucket integration
+desc: "<p>\n      This is an up-to-date fork of GitHub Desktop, with many quality of life improvements and advanced features for power users.\n    </p>\n      <p>General:</p>\n      <ul>\n        <li>Red color for destructive action buttons.</li>\n        <li>Add icons to some similar-looking buttons for faster visual recognition.</li>\n        <li>Allow generating branch name presets by calling an external script (e.g. fetching ticket numbers from an issue tracker).</li>\n        <li>Bitbucket integration: preview and create pull requests, view pull requests status (including checks), display a commit or PR in Bitbucket (web browser), andcorrectly set repository owner (instead of displaying \"Other\").</li>\n      </ul>\n      <p>Repositories list:</p>\n      <ul>\n        <li>Pull all button to fetch and pull from all remotes at once.</li>\n        <li>Allow hiding the 'Recent' repositories section.</li>\n      </ul>\n      <p>Branches list:</p>\n      <ul>\n        <li>Add warning indicator to local-only branches (branches that are not on the remote).</li>\n        <li>Allow manually setting which is the default branch for a repository (even if it doesn't match the one configured in the remote).</li>\n      </ul>\n      <p>History tab:</p>\n      <ul>\n        <li>Search commits by title, message, tag, or hash.</li>\n        <li>Use a different font style for merge commits in order to make them visually distinct, since most of the time they are not as relevant.</li>\n        <li>If a commit modifies only 1 file, allow double-clicking the commit to open the file. For other commits, you can still double-click the file as usual.</li>\n      </ul>\n      <p>Changes tab:</p>\n      <ul>\n        <li>Context menu option to permanently discard changes without sending to trash (useful when the there are many changed files and the regular \"Discard\" is extremely slow).</li>\n      </ul>"
+platforms:
+  mac64: null
+  macArm: null
+  win64: null
+  linux64: "fpak:io.github.pol_rivero.github-desktop-plus"
+  linuxArm: "fpak:io.github.pol_rivero.github-desktop-plus"
+icon: https://dl.flathub.org/media/io/github/pol_rivero.github-desktop-plus/7034bcc799d21db594b8bf8282753cca/icons/128x128/io.github.pol_rivero.github-desktop-plus.png
+images:
+  - text: Search bar in commit history
+    link: https://dl.flathub.org/media/io/github/pol_rivero.github-desktop-plus/7034bcc799d21db594b8bf8282753cca/screenshots/image-1_orig.webp
+  - text: 'Branch list with "unpushed branch" indicator'
+    link: https://dl.flathub.org/media/io/github/pol_rivero.github-desktop-plus/7034bcc799d21db594b8bf8282753cca/screenshots/image-2_orig.webp
+homepage: https://github.com/pol-rivero/github-desktop-plus
+docs: null
+repo: null
+author_id: usr.pol-rivero

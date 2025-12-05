@@ -1,0 +1,32 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Wike
+type: gui
+slogan: Search and read Wikipedia articles
+desc: "<p>\n      Wike is a Wikipedia reader for the GNOME Desktop.\n      Provides access to all the content of this online encyclopedia in a native application,\n      with a simpler and distraction-free view of articles.\n    </p>\n      <p>\n      It supports more than 300 languages and integrates with desktop searches,\n      providing suggestions that make it easier to find any content.\n      Other features are: bookmarks with multiple lists, article table of contents,\n      history, text searches and much more…\n    </p>"
+accent: "#3b608c"
+platforms:
+  mac64: null
+  macArm: null
+  win64: null
+  linux64: "fpak:com.github.hugolabe.Wike"
+  linuxArm: "fpak:com.github.hugolabe.Wike"
+icon: https://dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/icons/128x128/com.github.hugolabe.Wike.png
+images:
+  - text: null
+    link: https://dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/screenshots/image-1_orig.webp
+  - text: null
+    link: https://dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/screenshots/image-2_orig.webp
+  - text: null
+    link: https://dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/screenshots/image-3_orig.webp
+  - text: null
+    link: https://dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/screenshots/image-4_orig.webp
+  - text: null
+    link: https://dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/screenshots/image-5_orig.webp
+homepage: https://hugolabe.github.io/Wike/
+docs: null
+repo: gh:hugolabe/Wike
+author_id: usr.hugolabe

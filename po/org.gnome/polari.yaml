@@ -1,0 +1,28 @@
+# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.
+# This is shown in Konbini because of this bs flag:
+bs: true
+# If you own this package, simply make a PR removing this comment and modifying this manifest to your liking, including package sources if needed.
+# If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
+name: Polari
+type: gui
+slogan: Talk to people on IRC
+desc: "<p>\n      A simple Internet Relay Chat (IRC) client that is designed to integrate\n      seamlessly with GNOME; it features a simple and beautiful interface which\n      allows you to focus on your conversations.\n    </p>\n      <p>\n      You can use Polari to publicly chat with people in a channel, and to\n      have private one-to-one conversations. Notifications make sure that\n      you never miss an important message.\n    </p>"
+accent: "#275942"
+platforms:
+  mac64: null
+  macArm: null
+  win64: null
+  linux64: "fpak:org.gnome.Polari"
+  linuxArm: "fpak:org.gnome.Polari"
+icon: https://dl.flathub.org/media/org/gnome/Polari.desktop/a6226ac2a63a1d252efe17f6ebd128df/icons/128x128/org.gnome.Polari.desktop.png
+images:
+  - text: null
+    link: https://dl.flathub.org/media/org/gnome/Polari.desktop/a6226ac2a63a1d252efe17f6ebd128df/screenshots/image-1_orig.webp
+  - text: null
+    link: https://dl.flathub.org/media/org/gnome/Polari.desktop/a6226ac2a63a1d252efe17f6ebd128df/screenshots/image-2_orig.webp
+  - text: null
+    link: https://dl.flathub.org/media/org/gnome/Polari.desktop/a6226ac2a63a1d252efe17f6ebd128df/screenshots/image-3_orig.webp
+homepage: https://apps.gnome.org/Polari
+docs: https://help.gnome.org/users/polari/stable/
+repo: null
+author_id: org.gnome
