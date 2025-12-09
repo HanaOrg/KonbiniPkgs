@@ -26,3 +26,6 @@ homepage: apps.gnome.org/Binary/
 docs: null
 repo: gh:fizzyizzy05/binary
 author: usr.fizzyizzy05
+categories:
+  - DEVELOPMENT
+  - UTILITY

@@ -31,3 +31,5 @@ images:
 homepage: apps.gnome.org/Manuals/
 repo: url:gitlab.gnome.org/GNOME/manuals
 author: org.devsuite
+categories:
+  - DEVELOPMENT

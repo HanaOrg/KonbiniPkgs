@@ -21,3 +21,6 @@ homepage: apps.kde.org/filelight
 docs: docs.kde.org/?application=filelight
 repo: url:invent.kde.org/utilities/filelight
 author: org.kde
+categories:
+  - "SYSTEM"
+  - "UTILITY"

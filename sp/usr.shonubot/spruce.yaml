@@ -28,3 +28,6 @@ homepage: github.com/shonubot/Spruce
 docs: null
 repo: gh:shonubot/Spruce
 author: usr.shonubot
+categories:
+  - SYSTEM
+  - UTILITY

@@ -24,5 +24,12 @@ images:
     link: dl.flathub.org/media/org/gnome/Polari.desktop/a6226ac2a63a1d252efe17f6ebd128df/screenshots/image-3_orig.webp
 homepage: apps.gnome.org/Polari
 docs: help.gnome.org/users/polari/stable/
-repo: url:https://gitlab.gnome.org/GNOME/polari
+repo: url:gitlab.gnome.org/GNOME/polari
 author: org.gnome
+categories:
+  - NETWORK
+age_rating:
+  money: false
+  social: true
+  substances: false
+  violence: false

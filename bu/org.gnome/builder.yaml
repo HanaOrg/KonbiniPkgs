@@ -34,3 +34,5 @@ homepage: apps.gnome.org/Builder
 docs: builder.readthedocs.io
 repo: url:gitlab.gnome.org/GNOME/gnome-builder
 author: org.gnome
+categories:
+  - DEVELOPMENT

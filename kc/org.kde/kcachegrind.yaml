@@ -21,3 +21,5 @@ homepage: kde.org/applications/development/kcachegrind/
 docs: docs.kde.org/?application=kcachegrind
 repo: url:invent.kde.org/sdk/kcachegrind
 author: org.kde
+categories:
+  - DEVELOPMENT

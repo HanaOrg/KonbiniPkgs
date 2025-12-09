@@ -2,7 +2,7 @@
 // This file auto-bootstraps FlatHub packages thanks to its API.
 // It's not too complete, but it gets the job done.
 
-import { existsSync, mkdirSync, writeFileSync } from "fs";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "fs";
 import { chdir } from "process";
 
 type Etc<K> = K & Record<string, any>;
@@ -162,9 +162,23 @@ bs: true
 if (!existsSync(pkgID.slice(0, 2))) mkdirSync(pkgID.slice(0, 2));
 chdir(pkgID.slice(0, 2));
 if (!existsSync(authorID)) mkdirSync(authorID);
+const prev = existsSync(authorID + "/" + pkgID + ".yaml")
+  ? (Bun.YAML.parse(
+      readFileSync(authorID + "/" + pkgID + ".yaml", { encoding: "utf-8" }),
+    ) as any)
+  : {};
 writeFileSync(
   authorID + "/" + pkgID + ".yaml",
-  prefix + "\n" + Bun.YAML.stringify(newManifest, null, 2),
-);
+  prefix +
+    "\n" +
+    Bun.YAML.stringify(
+      {
+        ...newManifest,
+        ...prev,
+      },
+      null,
+      2,
+    ),
+); //com.github.hugolabe.Wike
 
 export {};

@@ -26,3 +26,10 @@ homepage: gitlab.gnome.org/World/fractal
 docs: null
 repo: url:gitlab.gnome.org/World/fractal
 author: org.gnome
+categories:
+  - NETWORK
+age_rating:
+  money: false
+  social: true
+  substances: false
+  violence: false

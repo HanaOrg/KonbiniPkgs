@@ -34,3 +34,5 @@ homepage: apps.kde.org/itinerary
 docs: null
 repo: url:invent.kde.org/pim/itinerary
 author: org.kde
+categories:
+  - "TRAVEL"

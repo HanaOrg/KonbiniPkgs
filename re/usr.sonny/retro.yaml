@@ -26,3 +26,5 @@ homepage: retro.sonny.re
 docs: null
 repo: gh:sonnyp/Retro
 author: usr.sonny
+categories:
+  - UTILITY

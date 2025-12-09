@@ -32,3 +32,5 @@ homepage: usebottles.com
 docs: docs.usebottles.com
 repo: gh:bottlesdevs/Bottles
 author: org.usebottles
+categories:
+  - SYSTEM

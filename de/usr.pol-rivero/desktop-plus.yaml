@@ -23,3 +23,5 @@ homepage: github.com/pol-rivero/github-desktop-plus
 docs: null
 repo: gh:pol-rivero/github-desktop-plus
 author: usr.pol-rivero
+categories:
+  - DEVELOPMENT

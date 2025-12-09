@@ -24,3 +24,10 @@ homepage: apps.kde.org/neochat
 docs: null
 repo: url:invent.kde.org/network/neochat
 author: org.kde
+categories:
+  - NETWORK
+age_rating:
+  money: false
+  social: true
+  substances: false
+  violence: false

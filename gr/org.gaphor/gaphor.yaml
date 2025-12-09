@@ -28,3 +28,6 @@ homepage: gaphor.org
 docs: docs.gaphor.org
 repo: gh:gaphor/gaphor
 author: org.gaphor
+categories:
+  - OFFICE
+  - UTILITY

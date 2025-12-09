@@ -12,8 +12,8 @@ platforms:
   mac64: null
   macArm: null
   win64: null
-  linux64: "fpak:com.github.hugolabe.Wike"
-  linuxArm: "fpak:com.github.hugolabe.Wike"
+  linux64: fpak:com.github.hugolabe.Wike
+  linuxArm: fpak:com.github.hugolabe.Wike
 icon: dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/icons/128x128/com.github.hugolabe.Wike.png
 images:
   - text: null
@@ -30,3 +30,5 @@ homepage: hugolabe.github.io/Wike/
 docs: null
 repo: gh:hugolabe/Wike
 author: usr.hugolabe
+categories:
+  - EDUCATION

@@ -28,3 +28,4 @@ homepage: calligra.org
 docs: null
 repo: url:invent.kde.org/office/calligra
 author: org.kde
+categories: -OFFICE

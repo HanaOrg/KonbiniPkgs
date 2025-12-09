@@ -24,3 +24,5 @@ homepage: brave.com
 docs: support.brave.com/hc/en-us
 repo: gh:brave/brave-browser
 author: org.brave
+categories:
+  - "NETWORK"
