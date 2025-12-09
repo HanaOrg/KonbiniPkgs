@@ -24,5 +24,6 @@ homepage: github.com/bytezz/iplookup-gtk
 docs: null
 repo: gh:bytezz/iplookup-gtk
 author: usr.bytezz
-categories: -DEVELOPMENT
-  -UTILITY
+categories:
+  - DEVELOPMENT
+  - UTILITY

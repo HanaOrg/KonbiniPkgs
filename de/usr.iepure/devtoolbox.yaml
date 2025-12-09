@@ -26,5 +26,6 @@ homepage: github.com/aleiepure/devtoolbox
 docs: null
 repo: gh:aleiepure/devtoolbox
 author: usr.iepure
-categories: -DEVELOPMENT
+categories:
+  - DEVELOPMENT
   - UTILITY
