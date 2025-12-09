@@ -20,4 +20,4 @@ images:
 homepage: https://apps.kde.org/filelight
 docs: https://docs.kde.org/?application=filelight
 repo: null
-author_id: org.kde
+author: org.kde

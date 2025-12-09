@@ -33,4 +33,4 @@ images:
 homepage: https://apps.gnome.org/Builder
 docs: https://builder.readthedocs.io
 repo: null
-author_id: org.gnome
+author: org.gnome

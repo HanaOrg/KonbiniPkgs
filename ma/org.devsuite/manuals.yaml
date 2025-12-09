@@ -30,4 +30,4 @@ images:
     link: https://dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-6_orig.webp
 homepage: https://apps.gnome.org/Manuals/
 repo: null
-author_id: org.devsuite
+author: org.devsuite

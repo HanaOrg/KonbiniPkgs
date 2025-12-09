@@ -128,7 +128,7 @@ const newManifest = {
           ? "gl:" + release.urls.vcs_browser.split("/").slice(3).join("/")
           : "cb" + release.urls.vcs_browser.split("/").slice(3).join("/")
       : null,
-  author_id: authorID,
+  author: authorID,
 };
 
 const prefix = `# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.

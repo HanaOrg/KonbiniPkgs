@@ -20,4 +20,4 @@ images:
 homepage: https://kde.org/applications/development/kcachegrind/
 docs: https://docs.kde.org/?application=kcachegrind
 repo: null
-author_id: org.kde
+author: org.kde

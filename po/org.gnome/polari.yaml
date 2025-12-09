@@ -25,4 +25,4 @@ images:
 homepage: https://apps.gnome.org/Polari
 docs: https://help.gnome.org/users/polari/stable/
 repo: null
-author_id: org.gnome
+author: org.gnome
