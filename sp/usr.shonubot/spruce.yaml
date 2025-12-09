@@ -14,17 +14,17 @@ platforms:
   win64: null
   linux64: "fpak:io.github.shonubot.Spruce"
   linuxArm: "fpak:io.github.shonubot.Spruce"
-icon: https://dl.flathub.org/media/io/github/shonubot.Spruce/bac6228ed26da982dd98200e691ffff2/icons/128x128/io.github.shonubot.Spruce.png
+icon: dl.flathub.org/media/io/github/shonubot.Spruce/bac6228ed26da982dd98200e691ffff2/icons/128x128/io.github.shonubot.Spruce.png
 images:
   - text: Main view (Light theme)
-    link: https://dl.flathub.org/media/io/github/shonubot.Spruce/bac6228ed26da982dd98200e691ffff2/screenshots/image-1_orig.webp
+    link: dl.flathub.org/media/io/github/shonubot.Spruce/bac6228ed26da982dd98200e691ffff2/screenshots/image-1_orig.webp
   - text: Cleaning menu (Light theme)
-    link: https://dl.flathub.org/media/io/github/shonubot.Spruce/bac6228ed26da982dd98200e691ffff2/screenshots/image-2_orig.webp
+    link: dl.flathub.org/media/io/github/shonubot.Spruce/bac6228ed26da982dd98200e691ffff2/screenshots/image-2_orig.webp
   - text: Main view (Dark theme)
-    link: https://dl.flathub.org/media/io/github/shonubot.Spruce/bac6228ed26da982dd98200e691ffff2/screenshots/image-3_orig.webp
+    link: dl.flathub.org/media/io/github/shonubot.Spruce/bac6228ed26da982dd98200e691ffff2/screenshots/image-3_orig.webp
   - text: Cleaning menu (Dark theme)
-    link: https://dl.flathub.org/media/io/github/shonubot.Spruce/bac6228ed26da982dd98200e691ffff2/screenshots/image-4_orig.webp
-homepage: https://github.com/shonubot/Spruce
+    link: dl.flathub.org/media/io/github/shonubot.Spruce/bac6228ed26da982dd98200e691ffff2/screenshots/image-4_orig.webp
+homepage: github.com/shonubot/Spruce
 docs: null
 repo: gh:shonubot/Spruce
 author: usr.shonubot

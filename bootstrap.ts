@@ -38,8 +38,18 @@ type FlatHubRelease = Etc<{
     default: true | null;
     caption?: string;
   }[];
-  // TODO: find specific categories FlatHub uses
-  categories: string[];
+  categories: (
+    | "audiovideo"
+    | "development"
+    | "education"
+    | "game"
+    | "graphics"
+    | "network"
+    | "office"
+    | "science"
+    | "system"
+    | "utility"
+  )[];
   icon: string;
   name: string;
   project_license: string;
@@ -117,18 +127,30 @@ const newManifest = {
   }),
   homepage: release.urls.homepage,
   docs: release.urls.help,
-  repo:
-    release.urls.vcs_browser &&
-    (release.urls.vcs_browser.startsWith("https://github.com/") ||
+  repo: release.urls.vcs_browser
+    ? release.urls.vcs_browser.startsWith("https://github.com/") ||
       release.urls.vcs_browser.startsWith("https://gitlab.com/") ||
-      release.urls.vcs_browser.startsWith("https://codeberg.com/"))
+      release.urls.vcs_browser.startsWith("https://codeberg.com/")
       ? release.urls.vcs_browser.startsWith("https://github.com/")
         ? "gh:" + release.urls.vcs_browser.split("/").slice(3).join("/")
         : release.urls.vcs_browser.startsWith("https://gitlab.com/")
           ? "gl:" + release.urls.vcs_browser.split("/").slice(3).join("/")
           : "cb" + release.urls.vcs_browser.split("/").slice(3).join("/")
-      : null,
+      : `url:${release.urls.vcs_browser.split("https://")[1]}`
+    : null,
   author: authorID,
+  categories: release.categories.map((s) => {
+    if (s === "audiovideo") return "MULTIMEDIA";
+    if (s === "development") return "DEVELOPMENT";
+    if (s === "education") return "EDUCATION";
+    if (s === "game") return "GAMING";
+    if (s === "graphics") return "GRAPHICS";
+    if (s === "network") return "NETWORK";
+    if (s === "office") return "OFFICE";
+    if (s === "science") return "SCIENCE";
+    if (s === "system") return "SYSTEM";
+    if (s === "utility") return "UTILITY";
+  }),
 };
 
 const prefix = `# Highly relevant packages like this one are added by Konbini itself and not their owners, in an attempt to bootstrap our store.

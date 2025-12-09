@@ -13,13 +13,13 @@ platforms:
   win64: null
   linux64: "fpak:io.github.pol_rivero.github-desktop-plus"
   linuxArm: "fpak:io.github.pol_rivero.github-desktop-plus"
-icon: https://dl.flathub.org/media/io/github/pol_rivero.github-desktop-plus/7034bcc799d21db594b8bf8282753cca/icons/128x128/io.github.pol_rivero.github-desktop-plus.png
+icon: dl.flathub.org/media/io/github/pol_rivero.github-desktop-plus/7034bcc799d21db594b8bf8282753cca/icons/128x128/io.github.pol_rivero.github-desktop-plus.png
 images:
   - text: Search bar in commit history
-    link: https://dl.flathub.org/media/io/github/pol_rivero.github-desktop-plus/7034bcc799d21db594b8bf8282753cca/screenshots/image-1_orig.webp
+    link: dl.flathub.org/media/io/github/pol_rivero.github-desktop-plus/7034bcc799d21db594b8bf8282753cca/screenshots/image-1_orig.webp
   - text: 'Branch list with "unpushed branch" indicator'
-    link: https://dl.flathub.org/media/io/github/pol_rivero.github-desktop-plus/7034bcc799d21db594b8bf8282753cca/screenshots/image-2_orig.webp
-homepage: https://github.com/pol-rivero/github-desktop-plus
+    link: dl.flathub.org/media/io/github/pol_rivero.github-desktop-plus/7034bcc799d21db594b8bf8282753cca/screenshots/image-2_orig.webp
+homepage: github.com/pol-rivero/github-desktop-plus
 docs: null
-repo: null
+repo: gh:pol-rivero/github-desktop-plus
 author: usr.pol-rivero

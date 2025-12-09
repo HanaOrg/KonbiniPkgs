@@ -17,8 +17,8 @@ desc: "Free and open-source software that allows users to set animated desktop w
 license: "GPLv3"
 author: "usr.rocksdanister"
 icon: null
-homepage: "https://www.rocksdanister.com/lively/"
-docs: "https://github.com/rocksdanister/lively/wiki/Getting-Started"
+homepage: "www.rocksdanister.com/lively/"
+docs: "github.com/rocksdanister/lively/wiki/Getting-Started"
 categories:
   - "CUSTOMIZATION"
 age_rating:
@@ -27,4 +27,4 @@ age_rating:
   substances: false
   violence: false
 telemetry: false
-privacy: https://github.com/rocksdanister/lively/blob/core-separation/PRIVACY.md
+privacy: github.com/rocksdanister/lively/blob/core-separation/PRIVACY.md

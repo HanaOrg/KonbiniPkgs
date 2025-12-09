@@ -14,15 +14,15 @@ platforms:
   win64: null
   linux64: "fpak:re.sonny.Retro"
   linuxArm: "fpak:re.sonny.Retro"
-icon: https://dl.flathub.org/media/re/sonny/Retro/54ac7abc90275611b685db6e134f1d23/icons/128x128/re.sonny.Retro.png
+icon: dl.flathub.org/media/re/sonny/Retro/54ac7abc90275611b685db6e134f1d23/icons/128x128/re.sonny.Retro.png
 images:
   - text: Retro with its default style
-    link: https://dl.flathub.org/media/re/sonny/Retro/54ac7abc90275611b685db6e134f1d23/screenshots/image-1_orig.webp
+    link: dl.flathub.org/media/re/sonny/Retro/54ac7abc90275611b685db6e134f1d23/screenshots/image-1_orig.webp
   - text: The style editor window
-    link: https://dl.flathub.org/media/re/sonny/Retro/54ac7abc90275611b685db6e134f1d23/screenshots/image-2_orig.webp
+    link: dl.flathub.org/media/re/sonny/Retro/54ac7abc90275611b685db6e134f1d23/screenshots/image-2_orig.webp
   - text: Retro with a custom style
-    link: https://dl.flathub.org/media/re/sonny/Retro/54ac7abc90275611b685db6e134f1d23/screenshots/image-3_orig.webp
-homepage: https://retro.sonny.re
+    link: dl.flathub.org/media/re/sonny/Retro/54ac7abc90275611b685db6e134f1d23/screenshots/image-3_orig.webp
+homepage: retro.sonny.re
 docs: null
-repo: null
+repo: gh:sonnyp/Retro
 author: usr.sonny

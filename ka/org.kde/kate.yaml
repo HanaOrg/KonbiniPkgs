@@ -7,9 +7,9 @@ name: Kate
 author: org.kde
 type: gui
 slogan: Advanced text editor
-homepage: https://kate-editor.org/
-docs: https://docs.kde.org/?application=kate
-icon: https://kate-editor.org/images/kate.svg
+homepage: kate-editor.org/
+docs: docs.kde.org/?application=kate
+icon: kate-editor.org/images/kate.svg
 desc: >
   Kate is a fast multi-document, multi-view text editor for programmers by KDE. It features stuff like LSP (Language Server Protocol) support, projects, multiple cursors and selections, git integration, folder wide search, horizontal and vertical splits, vi mode, syntax highlighting for 300+ languages, built-in terminal, dynamic word wrap and much more. It is available on Linux, BSD, Windows and MacOS.
 
@@ -70,17 +70,17 @@ desc: >
   - Git integration
 images:
   - text: Get an Edge in Editing
-    link: https://kate-editor.org/images/kate-window.png
+    link: kate-editor.org/images/kate-window.png
   - text: Make Your Code Pretty With Syntax Highlighting
-    link: https://kate-editor.org/images/kate-syntax-example.png
+    link: kate-editor.org/images/kate-syntax-example.png
   - text: Multi-cursor editing
-    link: https://kate-editor.org/images/kate-multicursor.gif
+    link: kate-editor.org/images/kate-multicursor.gif
   - text: Work on Complex Projects Efficiently
-    link: https://kate-editor.org/images/search.png
+    link: kate-editor.org/images/search.png
   - text: Develop your Next Application with Kate
-    link: https://kate-editor.org/images/completion.png
+    link: kate-editor.org/images/completion.png
   - text: Plugins
-    link: https://kate-editor.org/images/konsole.png
+    link: kate-editor.org/images/konsole.png
 categories:
   - DEVELOPMENT
 age_rating:

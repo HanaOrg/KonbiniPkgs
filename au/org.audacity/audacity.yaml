@@ -17,8 +17,8 @@ desc: "Audacity is a free, easy-to-use, multi-track audio editor and recorder fo
 license: "GPLv2"
 author: "org.audacity"
 icon: null
-homepage: "https://audacityteam.org/"
-docs: "https://manual.audacityteam.org/"
+homepage: "audacityteam.org/"
+docs: "manual.audacityteam.org/"
 categories:
   - "PRODUCTION"
 age_rating:
@@ -27,4 +27,4 @@ age_rating:
   substances: false
   violence: false
 telemetry: false
-privacy: https://www.audacityteam.org/desktop-privacy-notice/
+privacy: www.audacityteam.org/desktop-privacy-notice/

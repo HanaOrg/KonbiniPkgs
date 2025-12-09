@@ -10,7 +10,7 @@ slogan: Pin notes to your desktop
 categories:
   - PERSONAL
   - OFFICE
-icon: https://raw.githubusercontent.com/vixalien/sticky/refs/heads/main/data/icons/hicolor/scalable/apps/com.vixalien.sticky.svg
+icon: raw.githubusercontent.com/vixalien/sticky/refs/heads/main/data/icons/hicolor/scalable/apps/com.vixalien.sticky.svg
 desc: >
   Sticky Notes is a simple sticky notes app for GNOME. It allows you to create notes and format them.
 

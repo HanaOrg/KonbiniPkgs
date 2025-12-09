@@ -7,9 +7,9 @@ name: Dolphin
 author: org.kde
 type: gui
 slogan: Manage your files
-homepage: https://apps.kde.org/dolphin
-docs: https://docs.kde.org/?application=dolphin
-icon: https://apps.kde.org/app-icons/org.kde.dolphin.svg
+homepage: apps.kde.org/dolphin
+docs: docs.kde.org/?application=dolphin
+icon: apps.kde.org/app-icons/org.kde.dolphin.svg
 desc: >
   Dolphin is KDE's file manager that lets you navigate and browse the contents of your hard drives, USB sticks, SD cards, and more. Creating, moving, or deleting files and folders is simple and fast.
 
@@ -22,13 +22,13 @@ desc: >
   Dolphin also comes with an integrated terminal that allows you to run commands on the current folder. You can extend the capabilities of Dolphin even further with powerful plugins to adapt it to your workflow. You can use the git integration plugin to interact with git repositories, or the Nextcloud plugin to synchronize your files online, and much more.
 images:
   - text: "File management in Dolphin"
-    link: "https://cdn.kde.org/screenshots/dolphin/dolphin.png"
+    link: "cdn.kde.org/screenshots/dolphin/dolphin.png"
   - text: Embedded Terminal in Dolphin
-    link: https://cdn.kde.org/screenshots/dolphin/dolphin-terminal.png
+    link: cdn.kde.org/screenshots/dolphin/dolphin-terminal.png
   - text: Dolphin lets you configure your file manager exactly how you want
-    link: https://cdn.kde.org/screenshots/dolphin/dolphin-settings.png
+    link: cdn.kde.org/screenshots/dolphin/dolphin-settings.png
 categories:
-  - SYSTEM_UTIL
+  - SYSTEM
 age_rating:
   money: false
   social: false

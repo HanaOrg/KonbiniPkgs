@@ -18,8 +18,8 @@ desc: "Obsidian is a powerful knowledge base on top of a local folder of plain t
 license: "ProprietaryLicense"
 author: "org.obsidian"
 icon: null
-homepage: "https://obsidian.md/"
-docs: "https://help.obsidian.md/"
+homepage: "obsidian.md/"
+docs: "help.obsidian.md/"
 categories:
   - "OFFICE"
 age_rating:
@@ -28,6 +28,6 @@ age_rating:
   substances: false
   violence: false
 telemetry: false
-privacy: https://obsidian.md/privacy
-terms: https://obsidian.md/terms
+privacy: obsidian.md/privacy
+terms: obsidian.md/terms
 accent: "#8060d3"

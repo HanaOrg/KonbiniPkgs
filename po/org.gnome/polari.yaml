@@ -14,15 +14,15 @@ platforms:
   win64: null
   linux64: "fpak:org.gnome.Polari"
   linuxArm: "fpak:org.gnome.Polari"
-icon: https://dl.flathub.org/media/org/gnome/Polari.desktop/a6226ac2a63a1d252efe17f6ebd128df/icons/128x128/org.gnome.Polari.desktop.png
+icon: dl.flathub.org/media/org/gnome/Polari.desktop/a6226ac2a63a1d252efe17f6ebd128df/icons/128x128/org.gnome.Polari.desktop.png
 images:
   - text: null
-    link: https://dl.flathub.org/media/org/gnome/Polari.desktop/a6226ac2a63a1d252efe17f6ebd128df/screenshots/image-1_orig.webp
+    link: dl.flathub.org/media/org/gnome/Polari.desktop/a6226ac2a63a1d252efe17f6ebd128df/screenshots/image-1_orig.webp
   - text: null
-    link: https://dl.flathub.org/media/org/gnome/Polari.desktop/a6226ac2a63a1d252efe17f6ebd128df/screenshots/image-2_orig.webp
+    link: dl.flathub.org/media/org/gnome/Polari.desktop/a6226ac2a63a1d252efe17f6ebd128df/screenshots/image-2_orig.webp
   - text: null
-    link: https://dl.flathub.org/media/org/gnome/Polari.desktop/a6226ac2a63a1d252efe17f6ebd128df/screenshots/image-3_orig.webp
-homepage: https://apps.gnome.org/Polari
-docs: https://help.gnome.org/users/polari/stable/
-repo: null
+    link: dl.flathub.org/media/org/gnome/Polari.desktop/a6226ac2a63a1d252efe17f6ebd128df/screenshots/image-3_orig.webp
+homepage: apps.gnome.org/Polari
+docs: help.gnome.org/users/polari/stable/
+repo: url:https://gitlab.gnome.org/GNOME/polari
 author: org.gnome

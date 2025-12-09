@@ -19,19 +19,19 @@ author: "org.microsoft"
 icon: null
 images:
   - text: "Agent mode: Tackle complex, multi-step tasks. Agent mode reads your codebase, suggests edits across files, runs terminal commands, and responds to compile or test failures — all in a loop until the job is done."
-    link: https://code.visualstudio.com/assets/home/swimlane-chat-dark.webp
+    link: code.visualstudio.com/assets/home/swimlane-chat-dark.webp
   - text: "Next edit suggestions: VS Code predicts your next move as you code. Use the Tab key to accept AI-powered suggestions right in your editor."
-    link: https://code.visualstudio.com/assets/home/swimlane-nes-dark.webp
+    link: code.visualstudio.com/assets/home/swimlane-nes-dark.webp
   - text: "Fully customizable: Customize your VS Code UI and layout so that it fits your coding style."
-    link: https://code.visualstudio.com/assets/home/swimlane-customized.png
+    link: code.visualstudio.com/assets/home/swimlane-customized.png
 requirements:
   os_ver:
     win: Windows 10 or later
     lin: Ubuntu 20.04 / Debian 10 / RHEL 8 / Fedora 36, or later
   ram_mb: 1024
   disk_mb: 500
-homepage: "https://code.visualstudio.com"
-docs: "https://code.visualstudio.com/docs"
+homepage: "code.visualstudio.com"
+docs: "code.visualstudio.com/docs"
 categories:
   - "DEVELOPMENT"
 age_rating:
@@ -40,6 +40,6 @@ age_rating:
   substances: false
   violence: false
 telemetry: true # (VSCode official releases include Microsoft telemetry)
-terms: https://code.visualstudio.com/license
-privacy: https://www.microsoft.com/en-us/privacy/privacystatement
+terms: code.visualstudio.com/license
+privacy: www.microsoft.com/en-us/privacy/privacystatement
 accent: "#3794ff" # not from logo but from website

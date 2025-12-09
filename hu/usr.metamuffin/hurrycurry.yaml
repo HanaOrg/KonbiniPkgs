@@ -12,10 +12,10 @@ platforms:
   macArm: null
   win64: null
 images:
-  - link: https://hurrycurry.org/assets/images/screenshot-1-hq.webp
-  - link: https://hurrycurry.org/assets/images/screenshot-2-hq.webp
-  - link: https://hurrycurry.org/assets/images/screenshot-3-hq.webp
-  - link: https://hurrycurry.org/assets/images/screenshot-4-hq.webp
+  - link: hurrycurry.org/assets/images/screenshot-1-hq.webp
+  - link: hurrycurry.org/assets/images/screenshot-2-hq.webp
+  - link: hurrycurry.org/assets/images/screenshot-3-hq.webp
+  - link: hurrycurry.org/assets/images/screenshot-4-hq.webp
 name: "Hurry Curry!"
 slogan: "Multiplayer co-op cooking game."
 desc: >
@@ -31,7 +31,7 @@ desc: >
 license: "AGPLv3"
 author: "usr.metamuffin"
 icon: null
-homepage: "https://hurrycurry.org/"
+homepage: "hurrycurry.org/"
 categories:
   - "GAMING"
 age_rating:

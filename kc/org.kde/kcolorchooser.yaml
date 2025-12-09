@@ -7,14 +7,14 @@ name: KColorChooser
 author: org.kde
 type: gui
 slogan: Color selector and palette editor
-homepage: https://apps.kde.org/kcolorchooser
-icon: https://apps.kde.org/app-icons/org.kde.kcolorchooser.svg
+homepage: apps.kde.org/kcolorchooser
+icon: apps.kde.org/app-icons/org.kde.kcolorchooser.svg
 desc: "KColorChooser is a color palette tool, used to mix colors and create custom color palettes. Using the dropper, it can obtain the color of any pixel on the screen. A number of common color palettes are included, such as the standard Web colors and the Oxygen color scheme."
 images:
   - text: "KColorChooser"
-    link: "https://cdn.kde.org/screenshots/kcolorchooser/kcolorchooser.png"
+    link: "cdn.kde.org/screenshots/kcolorchooser/kcolorchooser.png"
 categories:
-  - SYSTEM_UTIL
+  - SYSTEM
 age_rating:
   money: false
   social: false

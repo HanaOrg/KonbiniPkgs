@@ -14,17 +14,17 @@ platforms:
   win64: null
   linux64: "fpak:org.kde.calligra"
   linuxArm: "fpak:org.kde.calligra"
-icon: https://dl.flathub.org/media/org/kde/calligra/b5610ca8adccf9abb7a2359b5af2ca53/icons/128x128/org.kde.calligra.png
+icon: dl.flathub.org/media/org/kde/calligra/b5610ca8adccf9abb7a2359b5af2ca53/icons/128x128/org.kde.calligra.png
 images:
   - text: Calligra Words main window showing random text in the main editor
-    link: https://dl.flathub.org/media/org/kde/calligra/b5610ca8adccf9abb7a2359b5af2ca53/screenshots/image-1_orig.webp
+    link: dl.flathub.org/media/org/kde/calligra/b5610ca8adccf9abb7a2359b5af2ca53/screenshots/image-1_orig.webp
   - text: Calligra Sheets main window
-    link: https://dl.flathub.org/media/org/kde/calligra/b5610ca8adccf9abb7a2359b5af2ca53/screenshots/image-2_orig.webp
+    link: dl.flathub.org/media/org/kde/calligra/b5610ca8adccf9abb7a2359b5af2ca53/screenshots/image-2_orig.webp
   - text: Calligra Stage main window
-    link: https://dl.flathub.org/media/org/kde/calligra/b5610ca8adccf9abb7a2359b5af2ca53/screenshots/image-3_orig.webp
+    link: dl.flathub.org/media/org/kde/calligra/b5610ca8adccf9abb7a2359b5af2ca53/screenshots/image-3_orig.webp
   - text: Main window of Karbon
-    link: https://dl.flathub.org/media/org/kde/calligra/b5610ca8adccf9abb7a2359b5af2ca53/screenshots/image-4_orig.webp
-homepage: https://www.calligra.org/words/
+    link: dl.flathub.org/media/org/kde/calligra/b5610ca8adccf9abb7a2359b5af2ca53/screenshots/image-4_orig.webp
+homepage: calligra.org
 docs: null
-repo: null
+repo: url:invent.kde.org/office/calligra
 author: org.kde

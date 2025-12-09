@@ -2,12 +2,12 @@ name: FuckingNode
 author: org.fuckingnode
 type: cli
 slogan: The chaos of maintaining JavaScript projects ends here
-homepage: https://fuckingnode.github.io
-docs: https://fuckingnode.github.io/manual/
-icon: https://fuckingnode.github.io/fkn_icon.webp
+homepage: fuckingnode.github.io
+docs: fuckingnode.github.io/manual/
+icon: fuckingnode.github.io/fkn_icon.webp
 maintainers:
   - name: ZakaHaceCosas
-    link: https://zakahacecosas.github.io/
+    link: zakahacecosas.github.io/
     github: ZakaHaceCosas
 desc: >
   **FuckingNode is a CLI tool that automates tasks and gives you tools to make JavaScript development less of a f*cking headache.** We can't fix your bugs, but we can automate most headache-giving tasks across all of your NodeJS/Deno/Bun projects and give you a set of tools to make JS development great again.\n## Features
@@ -43,19 +43,19 @@ desc: >
   - automated removal of entire node_modules across all of your projects for storage emergencies, from, you guessed it, a single command"
 images:
   - text: "Let all your projects get cleaned, dependencies updated, code prettified... Without having to type a thing, so you can focus on your thing."
-    link: "https://fuckingnode.github.io/konbini_1.png"
+    link: "fuckingnode.github.io/konbini_1.png"
   - text: "Kickstart repositories without waiting. Repos get cloned for you, dependencies install for you, and your editor launches for you. Easy."
-    link: "https://fuckingnode.github.io/konbini_2.png"
+    link: "fuckingnode.github.io/konbini_2.png"
   - text: 'Despite the name, FuckingNode is actually "FuckingJavascript". We improve your developer experience anywhere JavaScript takes you.'
-    link: "https://fuckingnode.github.io/konbini_3.png"
+    link: "fuckingnode.github.io/konbini_3.png"
   - text: "Fearlessly commit your code, you won't ever again forget your test suite. We'll run them it you and won't commit anything if it fails."
-    link: "https://fuckingnode.github.io/konbini_4.png"
+    link: "fuckingnode.github.io/konbini_4.png"
   - text: "Forget about clicking your editor's icon or cd-ing into your project. Run 'start', and get it started. As easy as you deserve."
-    link: "https://fuckingnode.github.io/konbini_5.png"
+    link: "fuckingnode.github.io/konbini_5.png"
   - text: 'Abandoning some projects is a part of the journey to become a great developer. We make it easy to properly say "farewell" your code.'
-    link: "https://fuckingnode.github.io/konbini_6.png"
+    link: "fuckingnode.github.io/konbini_6.png"
   - text: "You're hired to write TypeScript, not tsconfig. We do the configing, you do the coding. And yes, our own config file is also covered."
-    link: "https://fuckingnode.github.io/konbini_7.png"
+    link: "fuckingnode.github.io/konbini_7.png"
 categories:
   - PRODUCTIVITY
   - DEVELOPMENT

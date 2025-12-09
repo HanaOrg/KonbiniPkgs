@@ -7,7 +7,7 @@ name: Warehouse
 author: org.flattool
 type: gui
 slogan: Manage all things Flatpak
-icon: https://raw.githubusercontent.com/flattool/warehouse/refs/heads/main/data/icons/hicolor/scalable/apps/io.github.flattool.Warehouse.svg
+icon: raw.githubusercontent.com/flattool/warehouse/refs/heads/main/data/icons/hicolor/scalable/apps/io.github.flattool.Warehouse.svg
 desc: >
   Warehouse provides a simple UI to control complex Flatpak options, all without resorting to the command line.
 
@@ -31,7 +31,7 @@ desc: >
 
   - Responsive UI to fit large and small screen sizes
 categories:
-  - SYSTEM_UTIL
+  - SYSTEM
   - EFFICIENCY
   - DEVELOPMENT
 age_rating:

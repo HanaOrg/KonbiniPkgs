@@ -17,8 +17,8 @@ desc: "Blender is the free and open source 3D creation suite. It supports the en
 license: "GPLv3"
 author: "org.blenderfoundation"
 icon: null
-homepage: "https://blender.org"
-docs: "https://docs.blender.org/manual/en/latest/index.html"
+homepage: "blender.org"
+docs: "docs.blender.org/manual/en/latest/index.html"
 categories:
   - "PRODUCTION"
 age_rating:
@@ -27,6 +27,6 @@ age_rating:
   substances: false
   violence: false
 telemetry: false
-privacy: https://www.blender.org/privacy-policy/
-terms: https://www.blender.org/about/license/
+privacy: www.blender.org/privacy-policy/
+terms: www.blender.org/about/license/
 accent: "#e37200"

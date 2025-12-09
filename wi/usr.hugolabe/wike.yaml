@@ -14,19 +14,19 @@ platforms:
   win64: null
   linux64: "fpak:com.github.hugolabe.Wike"
   linuxArm: "fpak:com.github.hugolabe.Wike"
-icon: https://dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/icons/128x128/com.github.hugolabe.Wike.png
+icon: dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/icons/128x128/com.github.hugolabe.Wike.png
 images:
   - text: null
-    link: https://dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/screenshots/image-1_orig.webp
+    link: dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/screenshots/image-1_orig.webp
   - text: null
-    link: https://dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/screenshots/image-2_orig.webp
+    link: dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/screenshots/image-2_orig.webp
   - text: null
-    link: https://dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/screenshots/image-3_orig.webp
+    link: dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/screenshots/image-3_orig.webp
   - text: null
-    link: https://dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/screenshots/image-4_orig.webp
+    link: dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/screenshots/image-4_orig.webp
   - text: null
-    link: https://dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/screenshots/image-5_orig.webp
-homepage: https://hugolabe.github.io/Wike/
+    link: dl.flathub.org/media/com/github/hugolabe.Wike/6e87df5d7d85f21d082b8e5aa5de5458/screenshots/image-5_orig.webp
+homepage: hugolabe.github.io/Wike/
 docs: null
 repo: gh:hugolabe/Wike
 author: usr.hugolabe

@@ -14,11 +14,11 @@ platforms:
   win64: null
   linux64: "fpak:de.schmidhuberj.DieBahn"
   linuxArm: "fpak:de.schmidhuberj.DieBahn"
-icon: https://dl.flathub.org/media/de/schmidhuberj/DieBahn/23adaa19785de3b454cd6844bd384083/icons/128x128/de.schmidhuberj.DieBahn.png
+icon: dl.flathub.org/media/de/schmidhuberj/DieBahn/23adaa19785de3b454cd6844bd384083/icons/128x128/de.schmidhuberj.DieBahn.png
 images:
   - text: Application Overview
-    link: https://dl.flathub.org/media/de/schmidhuberj/DieBahn/23adaa19785de3b454cd6844bd384083/screenshots/image-1_orig.webp
-homepage: https://mobile.schmidhuberj.de/railway
+    link: dl.flathub.org/media/de/schmidhuberj/DieBahn/23adaa19785de3b454cd6844bd384083/screenshots/image-1_orig.webp
+homepage: mobile.schmidhuberj.de/railway
 docs: null
 repo: gl:schmiddi-on-mobile/railway
 author: usr.schmidhuberj

@@ -14,21 +14,21 @@ platforms:
   win64: null
   linux64: "fpak:com.usebottles.bottles"
   linuxArm: null
-icon: https://dl.flathub.org/media/com/usebottles/bottles/3200d7179bd982ca76cecfecee8c7b12/icons/128x128/com.usebottles.bottles.png
+icon: dl.flathub.org/media/com/usebottles/bottles/3200d7179bd982ca76cecfecee8c7b12/icons/128x128/com.usebottles.bottles.png
 images:
   - text: Bottles List Page
-    link: https://dl.flathub.org/media/com/usebottles/bottles/3200d7179bd982ca76cecfecee8c7b12/screenshots/image-1_orig.webp
+    link: dl.flathub.org/media/com/usebottles/bottles/3200d7179bd982ca76cecfecee8c7b12/screenshots/image-1_orig.webp
   - text: Library Page
-    link: https://dl.flathub.org/media/com/usebottles/bottles/3200d7179bd982ca76cecfecee8c7b12/screenshots/image-2_orig.webp
+    link: dl.flathub.org/media/com/usebottles/bottles/3200d7179bd982ca76cecfecee8c7b12/screenshots/image-2_orig.webp
   - text: Create New Bottle
-    link: https://dl.flathub.org/media/com/usebottles/bottles/3200d7179bd982ca76cecfecee8c7b12/screenshots/image-3_orig.webp
+    link: dl.flathub.org/media/com/usebottles/bottles/3200d7179bd982ca76cecfecee8c7b12/screenshots/image-3_orig.webp
   - text: Bottle Details Page
-    link: https://dl.flathub.org/media/com/usebottles/bottles/3200d7179bd982ca76cecfecee8c7b12/screenshots/image-4_orig.webp
+    link: dl.flathub.org/media/com/usebottles/bottles/3200d7179bd982ca76cecfecee8c7b12/screenshots/image-4_orig.webp
   - text: Bottle Settings Page
-    link: https://dl.flathub.org/media/com/usebottles/bottles/3200d7179bd982ca76cecfecee8c7b12/screenshots/image-5_orig.webp
+    link: dl.flathub.org/media/com/usebottles/bottles/3200d7179bd982ca76cecfecee8c7b12/screenshots/image-5_orig.webp
   - text: Installers Page
-    link: https://dl.flathub.org/media/com/usebottles/bottles/3200d7179bd982ca76cecfecee8c7b12/screenshots/image-6_orig.webp
-homepage: https://usebottles.com
-docs: https://docs.usebottles.com
+    link: dl.flathub.org/media/com/usebottles/bottles/3200d7179bd982ca76cecfecee8c7b12/screenshots/image-6_orig.webp
+homepage: usebottles.com
+docs: docs.usebottles.com
 repo: gh:bottlesdevs/Bottles
 author: org.usebottles

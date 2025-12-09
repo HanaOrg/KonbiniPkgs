@@ -14,13 +14,13 @@ platforms:
   win64: null
   linux64: "fpak:com.brave.Browser"
   linuxArm: "fpak:com.brave.Browser"
-icon: https://dl.flathub.org/media/com/brave/Browser/819ea38c56aaf1aacdd67d5e5fc0fea4/icons/128x128/com.brave.Browser.png
+icon: dl.flathub.org/media/com/brave/Browser/819ea38c56aaf1aacdd67d5e5fc0fea4/icons/128x128/com.brave.Browser.png
 images:
   - text: Welcome page of Brave
-    link: https://dl.flathub.org/media/com/brave/Browser/819ea38c56aaf1aacdd67d5e5fc0fea4/screenshots/image-1_orig.webp
+    link: dl.flathub.org/media/com/brave/Browser/819ea38c56aaf1aacdd67d5e5fc0fea4/screenshots/image-1_orig.webp
   - text: New tab page of Brave
-    link: https://dl.flathub.org/media/com/brave/Browser/819ea38c56aaf1aacdd67d5e5fc0fea4/screenshots/image-2_orig.webp
-homepage: https://brave.com
-docs: https://support.brave.com/hc/en-us
-repo: null
+    link: dl.flathub.org/media/com/brave/Browser/819ea38c56aaf1aacdd67d5e5fc0fea4/screenshots/image-2_orig.webp
+homepage: brave.com
+docs: support.brave.com/hc/en-us
+repo: gh:brave/brave-browser
 author: org.brave

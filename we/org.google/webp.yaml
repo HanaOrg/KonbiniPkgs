@@ -24,9 +24,9 @@ desc: >
 # TODO check
 license: "BSD3Clause"
 author: "org.google"
-icon: "https://developers.google.com/static/speed/webp/images/webp-devsite-icon_72.png"
-homepage: "https://developers.google.com/speed/webp/"
-docs: "https://developers.google.com/speed/webp/docs/using"
+icon: "developers.google.com/static/speed/webp/images/webp-devsite-icon_72.png"
+homepage: "developers.google.com/speed/webp/"
+docs: "developers.google.com/speed/webp/docs/using"
 categories:
   - "DEVELOPMENT"
 age_rating:

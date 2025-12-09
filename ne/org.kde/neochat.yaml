@@ -14,13 +14,13 @@ platforms:
   win64: null
   linux64: "fpak:org.kde.neochat"
   linuxArm: "fpak:org.kde.neochat"
-icon: https://dl.flathub.org/media/org/kde/neochat/c8e389ba1ef77449903688458e029065/icons/128x128/org.kde.neochat.png
+icon: dl.flathub.org/media/org/kde/neochat/c8e389ba1ef77449903688458e029065/icons/128x128/org.kde.neochat.png
 images:
   - text: "Main view with room list, chat, and room information"
-    link: https://dl.flathub.org/media/org/kde/neochat/c8e389ba1ef77449903688458e029065/screenshots/image-1_orig.webp
+    link: dl.flathub.org/media/org/kde/neochat/c8e389ba1ef77449903688458e029065/screenshots/image-1_orig.webp
   - text: Discover new communities with Matrix Spaces
-    link: https://dl.flathub.org/media/org/kde/neochat/c8e389ba1ef77449903688458e029065/screenshots/image-2_orig.webp
-homepage: https://apps.kde.org/neochat
+    link: dl.flathub.org/media/org/kde/neochat/c8e389ba1ef77449903688458e029065/screenshots/image-2_orig.webp
+homepage: apps.kde.org/neochat
 docs: null
-repo: null
+repo: url:invent.kde.org/network/neochat
 author: org.kde

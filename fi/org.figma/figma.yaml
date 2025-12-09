@@ -17,8 +17,8 @@ desc: "Build better products as a team. Design, prototype, and gather feedback a
 license: "ProprietaryLicense"
 author: "org.figma"
 icon: null
-homepage: "https://figma.com"
-docs: "https://help.figma.com/hc/en-us"
+homepage: "figma.com"
+docs: "help.figma.com/hc/en-us"
 categories:
   - "PRODUCTION"
 age_rating:
@@ -27,5 +27,5 @@ age_rating:
   substances: false
   violence: false
 telemetry: true # (obvious)
-privacy: https://www.figma.com/legal/privacy/
-terms: https://www.figma.com/legal/tos/
+privacy: www.figma.com/legal/privacy/
+terms: www.figma.com/legal/tos/

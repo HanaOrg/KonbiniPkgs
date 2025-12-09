@@ -13,11 +13,11 @@ platforms:
   win64: null
   linux64: "fpak:org.kde.kcachegrind"
   linuxArm: "fpak:org.kde.kcachegrind"
-icon: https://dl.flathub.org/media/org/kde/kcachegrind.desktop/646c0ccb0b3ae091e2e2a34a54836eea/icons/128x128/org.kde.kcachegrind.desktop.png
+icon: dl.flathub.org/media/org/kde/kcachegrind.desktop/646c0ccb0b3ae091e2e2a34a54836eea/icons/128x128/org.kde.kcachegrind.desktop.png
 images:
   - text: Profiling data analysis with KCachegrind
-    link: https://dl.flathub.org/media/org/kde/kcachegrind.desktop/646c0ccb0b3ae091e2e2a34a54836eea/screenshots/image-1_orig.webp
-homepage: https://kde.org/applications/development/kcachegrind/
-docs: https://docs.kde.org/?application=kcachegrind
-repo: null
+    link: dl.flathub.org/media/org/kde/kcachegrind.desktop/646c0ccb0b3ae091e2e2a34a54836eea/screenshots/image-1_orig.webp
+homepage: kde.org/applications/development/kcachegrind/
+docs: docs.kde.org/?application=kcachegrind
+repo: url:invent.kde.org/sdk/kcachegrind
 author: org.kde

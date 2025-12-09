@@ -14,20 +14,20 @@ platforms:
   win64: null
   linux64: "fpak:app.devsuite.Manuals"
   linuxArm: "fpak:app.devsuite.Manuals"
-icon: https://dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/icons/128x128/app.devsuite.Manuals.png
+icon: dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/icons/128x128/app.devsuite.Manuals.png
 images:
   - text: Browse Documentation by SDK
-    link: https://dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-1_orig.webp
+    link: dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-1_orig.webp
   - text: Free Form Search
-    link: https://dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-2_orig.webp
+    link: dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-2_orig.webp
   - text: Install SDK Documentation
-    link: https://dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-3_orig.webp
+    link: dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-3_orig.webp
   - text: Integrated Dark Mode
-    link: https://dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-4_orig.webp
+    link: dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-4_orig.webp
   - text: Mobile Search
-    link: https://dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-5_orig.webp
+    link: dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-5_orig.webp
   - text: Adaptable Documentation
-    link: https://dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-6_orig.webp
-homepage: https://apps.gnome.org/Manuals/
-repo: null
+    link: dl.flathub.org/media/app/devsuite/Manuals/3666571aea97a6fd5d14dd1cd15de5d8/screenshots/image-6_orig.webp
+homepage: apps.gnome.org/Manuals/
+repo: url:gitlab.gnome.org/GNOME/manuals
 author: org.devsuite

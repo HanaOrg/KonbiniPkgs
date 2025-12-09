@@ -5,10 +5,10 @@ bs: true
 # If you really wish to, you may remove it entirely as well (in which case you might want to delete your profile from KonbiniAuthors/usr.YOUR_USER.yaml).
 name: Folio
 author: usr.toolstack
-homepage: https://toolstack.com/folio
+homepage: toolstack.com/folio
 type: gui
 slogan: Beautiful markdown note-taking app
-icon: https://raw.githubusercontent.com/toolstack/Folio/refs/heads/main/data/icons/hicolor/scalable/apps/com.toolstack.Folio.svg
+icon: raw.githubusercontent.com/toolstack/Folio/refs/heads/main/data/icons/hicolor/scalable/apps/com.toolstack.Folio.svg
 desc: >
   Create notebooks and take notes in markdown
 

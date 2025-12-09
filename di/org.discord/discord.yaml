@@ -17,8 +17,8 @@ desc: "Whether you're part of a school club, gaming group, worldwide art communi
 license: "ProprietaryLicense"
 author: "org.discord"
 icon: null
-homepage: "https://discord.com"
-docs: "https://support.discord.com/hc/en-us"
+homepage: "discord.com"
+docs: "support.discord.com/hc/en-us"
 categories:
   - "COMMUNICATION"
   - "ENTERTAINMENT"
@@ -29,6 +29,6 @@ age_rating:
   substances: false
   violence: false
 telemetry: true # (also obvious)
-privacy: https://discord.com/privacy/
-terms: https://discord.com/terms/
+privacy: discord.com/privacy/
+terms: discord.com/terms/
 accent: "#5562ea"

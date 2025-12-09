@@ -14,15 +14,15 @@ platforms:
   win64: null
   linux64: "fpak:me.iepure.devtoolbox"
   linuxArm: "fpak:me.iepure.devtoolbox"
-icon: https://dl.flathub.org/media/me/iepure/devtoolbox/759d2f68c46a84c3f77f98d1e2ec84db/icons/128x128/me.iepure.devtoolbox.png
+icon: dl.flathub.org/media/me/iepure/devtoolbox/759d2f68c46a84c3f77f98d1e2ec84db/icons/128x128/me.iepure.devtoolbox.png
 images:
   - text: null
-    link: https://dl.flathub.org/media/me/iepure/devtoolbox/759d2f68c46a84c3f77f98d1e2ec84db/screenshots/image-1_orig.webp
+    link: dl.flathub.org/media/me/iepure/devtoolbox/759d2f68c46a84c3f77f98d1e2ec84db/screenshots/image-1_orig.webp
   - text: null
-    link: https://dl.flathub.org/media/me/iepure/devtoolbox/759d2f68c46a84c3f77f98d1e2ec84db/screenshots/image-2_orig.webp
+    link: dl.flathub.org/media/me/iepure/devtoolbox/759d2f68c46a84c3f77f98d1e2ec84db/screenshots/image-2_orig.webp
   - text: null
-    link: https://dl.flathub.org/media/me/iepure/devtoolbox/759d2f68c46a84c3f77f98d1e2ec84db/screenshots/image-3_orig.webp
-homepage: https://github.com/aleiepure/devtoolbox
+    link: dl.flathub.org/media/me/iepure/devtoolbox/759d2f68c46a84c3f77f98d1e2ec84db/screenshots/image-3_orig.webp
+homepage: github.com/aleiepure/devtoolbox
 docs: null
 repo: gh:aleiepure/devtoolbox
 author: usr.iepure

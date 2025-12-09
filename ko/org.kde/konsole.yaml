@@ -7,8 +7,8 @@ name: Konsole
 author: org.kde
 type: gui
 slogan: Use the command line interface
-homepage: https://apps.kde.org/konsole
-icon: https://apps.kde.org/app-icons/org.kde.konsole.svg
+homepage: apps.kde.org/konsole
+icon: apps.kde.org/app-icons/org.kde.konsole.svg
 desc: >
   Konsole is a terminal to run a command shell. It provides a command line interface for directly controlling your computer.
 
@@ -27,7 +27,7 @@ desc: >
   - Saving output
 images:
   - text: "Konsole"
-    link: "https://cdn.kde.org/screenshots/konsole/konsole.png"
+    link: "cdn.kde.org/screenshots/konsole/konsole.png"
 categories:
   - PRODUCTIVITY
 age_rating:

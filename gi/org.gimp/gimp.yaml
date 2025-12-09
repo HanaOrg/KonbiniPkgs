@@ -17,8 +17,8 @@ desc: "GIMP is an acronym for GNU Image Manipulation Program. It is a freely dis
 license: "GPLv3"
 author: "org.gimp"
 icon: null
-homepage: "https://www.gimp.org/"
-docs: "https://docs.gimp.org/"
+homepage: "www.gimp.org/"
+docs: "docs.gimp.org/"
 categories:
   - "PRODUCTION"
 age_rating:
@@ -27,4 +27,4 @@ age_rating:
   substances: false
   violence: false
 telemetry: false
-privacy: https://www.gimp.org/about/privacy.html
+privacy: www.gimp.org/about/privacy.html

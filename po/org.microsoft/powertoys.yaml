@@ -20,25 +20,25 @@ requirements:
     win: "Windows 10 or later"
 images:
   - text: Always On Top enables you to pin windows above other windows with a quick key shortcut.
-    link: https://learn.microsoft.com/en-us/windows/images/pt-always-on-top.png
+    link: learn.microsoft.com/en-us/windows/images/pt-always-on-top.png
   - text: Use Screen Ruler to quickly measure pixels on your screen based on image edge detection.
-    link: https://learn.microsoft.com/en-us/windows/images/pt-screen-ruler.png
+    link: learn.microsoft.com/en-us/windows/images/pt-screen-ruler.png
   - text: Use PowerRename to perform bulk renaming; searching and replacing file names. It includes advanced features, such as using regular expressions, targeting specific file types, previewing expected results, and the ability to undo changes.
-    link: https://learn.microsoft.com/en-us/windows/images/pt-rename.png
+    link: learn.microsoft.com/en-us/windows/images/pt-rename.png
   - text: Environment Variables offers an easy and convenient way to manage environment variables.
-    link: https://learn.microsoft.com/en-us/windows/images/powertoys-environment-variables.png
+    link: learn.microsoft.com/en-us/windows/images/powertoys-environment-variables.png
   - text: Command Palette allows you to easily access all of your most frequently used commands, apps, and development tools - all from a single solution that is fast, customizable to your unique preferences, and extensible to include your favorite apps.
-    link: https://learn.microsoft.com/en-us/windows/images/pt-cmdpal.png
+    link: learn.microsoft.com/en-us/windows/images/pt-cmdpal.png
   - text: Color Picker is a system-wide color picking utility. It allows you to pick colors from anywhere on the screen, and the picker automatically copies the color to your clipboard in a specified format.
-    link: https://learn.microsoft.com/en-us/windows/images/pt-color-picker.png
+    link: learn.microsoft.com/en-us/windows/images/pt-color-picker.png
   - text: Registry Preview is a utility to visualize and edit Windows Registry files.
-    link: https://learn.microsoft.com/en-us/windows/images/pt-registrypreview.png
+    link: learn.microsoft.com/en-us/windows/images/pt-registrypreview.png
 license: "MIT"
 author: "org.microsoft"
 # okay this is definitely not a good practice but i want to see some icons :sob:
-icon: https://raw.githubusercontent.com/microsoft/PowerToys/fed6e523b6c59e90bef9b70cfb61949f4a7f0651/doc/images/icons/PowerToys%20icon/PNG/PowerToysAppList.targetsize-256.png
-homepage: "https://github.com/microsoft/PowerToys"
-docs: "https://learn.microsoft.com/en-us/windows/powertoys/"
+icon: raw.githubusercontent.com/microsoft/PowerToys/fed6e523b6c59e90bef9b70cfb61949f4a7f0651/doc/images/icons/PowerToys%20icon/PNG/PowerToysAppList.targetsize-256.png
+homepage: "github.com/microsoft/PowerToys"
+docs: "learn.microsoft.com/en-us/windows/powertoys/"
 categories:
   - "PRODUCTIVITY"
 age_rating:
@@ -47,4 +47,4 @@ age_rating:
   substances: false
   violence: false
 telemetry: true # (just as VSCode, the official release includes telemetry)
-privacy: https://github.com/microsoft/PowerToys/blob/main/DATA_AND_PRIVACY.md
+privacy: github.com/microsoft/PowerToys/blob/main/DATA_AND_PRIVACY.md

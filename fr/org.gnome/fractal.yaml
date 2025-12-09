@@ -14,15 +14,15 @@ platforms:
   win64: null
   linux64: "fpak:org.gnome.Fractal"
   linuxArm: "fpak:org.gnome.Fractal"
-icon: https://dl.flathub.org/media/org/gnome/Fractal/c523e1b3740e0c4be437ec3d59261e93/icons/128x128/org.gnome.Fractal.png
+icon: dl.flathub.org/media/org/gnome/Fractal/c523e1b3740e0c4be437ec3d59261e93/icons/128x128/org.gnome.Fractal.png
 images:
   - text: Fractal’s main window
-    link: https://dl.flathub.org/media/org/gnome/Fractal/c523e1b3740e0c4be437ec3d59261e93/screenshots/image-1_orig.webp
+    link: dl.flathub.org/media/org/gnome/Fractal/c523e1b3740e0c4be437ec3d59261e93/screenshots/image-1_orig.webp
   - text: View the media history of a Matrix room
-    link: https://dl.flathub.org/media/org/gnome/Fractal/c523e1b3740e0c4be437ec3d59261e93/screenshots/image-2_orig.webp
+    link: dl.flathub.org/media/org/gnome/Fractal/c523e1b3740e0c4be437ec3d59261e93/screenshots/image-2_orig.webp
   - text: Fractal’s interface adapts to small screens
-    link: https://dl.flathub.org/media/org/gnome/Fractal/c523e1b3740e0c4be437ec3d59261e93/screenshots/image-3_orig.webp
-homepage: https://gitlab.gnome.org/World/fractal
+    link: dl.flathub.org/media/org/gnome/Fractal/c523e1b3740e0c4be437ec3d59261e93/screenshots/image-3_orig.webp
+homepage: gitlab.gnome.org/World/fractal
 docs: null
-repo: null
+repo: url:gitlab.gnome.org/World/fractal
 author: org.gnome

@@ -14,23 +14,23 @@ platforms:
   win64: null
   linux64: "fpak:org.kde.itinerary"
   linuxArm: "fpak:org.kde.itinerary"
-icon: https://dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/icons/128x128/org.kde.itinerary.png
+icon: dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/icons/128x128/org.kde.itinerary.png
 images:
   - text: Timeline view
-    link: https://dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-1_orig.webp
+    link: dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-1_orig.webp
   - text: Boarding pass view
-    link: https://dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-2_orig.webp
+    link: dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-2_orig.webp
   - text: Train layout view highlighting the coach with a seat reservation
-    link: https://dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-3_orig.webp
+    link: dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-3_orig.webp
   - text: "Train station platform map, highlighting arrival and departure platforms"
-    link: https://dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-4_orig.webp
+    link: dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-4_orig.webp
   - text: Train station map showing real-time availability of rental bikes
-    link: https://dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-5_orig.webp
+    link: dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-5_orig.webp
   - text: Detailed information for the select entity on the train station map
-    link: https://dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-6_orig.webp
+    link: dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-6_orig.webp
   - text: Travel statistics view
-    link: https://dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-7_orig.webp
-homepage: https://apps.kde.org/itinerary
+    link: dl.flathub.org/media/org/kde/itinerary/945322dc2c5d2806b16bb16b42f56004/screenshots/image-7_orig.webp
+homepage: apps.kde.org/itinerary
 docs: null
-repo: null
+repo: url:invent.kde.org/pim/itinerary
 author: org.kde

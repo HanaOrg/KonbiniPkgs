@@ -7,8 +7,8 @@ name: Mission Center
 author: org.missioncenter
 type: gui
 slogan: Color selector and palette editor
-homepage: https://missioncenter.io
-icon: https://gitlab.com/mission-center-devs/mission-center/-/raw/main/data/icons/hicolor/scalable/apps/io.missioncenter.MissionCenter.svg?ref_type=heads
+homepage: missioncenter.io
+icon: gitlab.com/mission-center-devs/mission-center/-/raw/main/data/icons/hicolor/scalable/apps/io.missioncenter.MissionCenter.svg?ref_type=heads
 desc: >
   Monitor your CPU, Memory, Disk, Network and GPU usage, accompanied by a per app and process breakdown of these statistics
 
@@ -46,30 +46,30 @@ desc: >
 
   - Intel GPU monitoring is only supported for Broadwell and later GPUs; and does not support VRAM, power, or temperature monitoring
 
-  - When using Linux Mint/Cinnamon, launched applications may not show up in the "Applications" section (Upstream issue: https://github.com/linuxmint/cinnamon/issues/12015)
+  - When using Linux Mint/Cinnamon, launched applications may not show up in the "Applications" section (Upstream issue: github.com/linuxmint/cinnamon/issues/12015)
 
   Comments, suggestions, bug reports and contributions welcome
 images:
   - text: "CPU view"
-    link: "https://gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0001-cpu.png?ref_type=heads"
+    link: "gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0001-cpu.png?ref_type=heads"
   - text: "Memory view"
-    link: "https://gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0002-memory.png?ref_type=heads"
+    link: "gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0002-memory.png?ref_type=heads"
   - text: "Disk view"
-    link: "https://gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0003-disk.png?ref_type=heads"
+    link: "gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0003-disk.png?ref_type=heads"
   - text: "Ethernet view"
-    link: "https://gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0004-ethernet.png?ref_type=heads"
+    link: "gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0004-ethernet.png?ref_type=heads"
   - text: "WiFi view"
-    link: "https://gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0005-wifi.png?ref_type=heads"
+    link: "gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0005-wifi.png?ref_type=heads"
   - text: "GPU view"
-    link: "https://gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0006-gpu.png?ref_type=heads"
+    link: "gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0006-gpu.png?ref_type=heads"
   - text: "CPU fan view"
-    link: "https://gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0007-fan.png?ref_type=heads"
+    link: "gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0007-fan.png?ref_type=heads"
   - text: "Running apps view"
-    link: "https://gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0008-apps.png?ref_type=heads"
+    link: "gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0008-apps.png?ref_type=heads"
   - text: "Running services view"
-    link: "https://gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0008-services.png?ref_type=heads"
+    link: "gitlab.com/mission-center-devs/mission-center/-/raw/main/screenshots/0008-services.png?ref_type=heads"
 categories:
-  - SYSTEM_UTIL
+  - SYSTEM
 age_rating:
   money: false
   social: false

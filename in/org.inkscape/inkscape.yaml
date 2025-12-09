@@ -17,8 +17,8 @@ desc: "Inkscape is a free and open-source vector graphics editor used to create 
 license: "GPLv2"
 author: "org.inkscape"
 icon: null
-homepage: "https://inkscape.org/"
-docs: "https://inkscape.org/learn/"
+homepage: "inkscape.org/"
+docs: "inkscape.org/learn/"
 categories:
   - "PRODUCTION"
 age_rating:
@@ -27,5 +27,5 @@ age_rating:
   substances: false
   violence: false
 telemetry: false
-terms: https://inkscape.org/about/license/
-privacy: https://inkscape.org/about/privacy/
+terms: inkscape.org/about/license/
+privacy: inkscape.org/about/privacy/

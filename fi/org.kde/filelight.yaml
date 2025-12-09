@@ -13,11 +13,11 @@ platforms:
   win64: null
   linux64: "fpak:org.kde.filelight"
   linuxArm: "fpak:org.kde.filelight"
-icon: https://dl.flathub.org/media/org/kde/filelight.desktop/b3433c5076330b83efd30e1a5cf4f279/icons/128x128/org.kde.filelight.desktop.png
+icon: dl.flathub.org/media/org/kde/filelight.desktop/b3433c5076330b83efd30e1a5cf4f279/icons/128x128/org.kde.filelight.desktop.png
 images:
   - text: null
-    link: https://dl.flathub.org/media/org/kde/filelight.desktop/b3433c5076330b83efd30e1a5cf4f279/screenshots/image-1_orig.webp
-homepage: https://apps.kde.org/filelight
-docs: https://docs.kde.org/?application=filelight
-repo: null
+    link: dl.flathub.org/media/org/kde/filelight.desktop/b3433c5076330b83efd30e1a5cf4f279/screenshots/image-1_orig.webp
+homepage: apps.kde.org/filelight
+docs: docs.kde.org/?application=filelight
+repo: url:invent.kde.org/utilities/filelight
 author: org.kde

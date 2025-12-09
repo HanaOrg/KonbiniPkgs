@@ -8,7 +8,7 @@ platforms:
   macArm: null
 name: "Zaiko"
 slogan: "Inventory made easy"
-icon: "https://hana-org.vercel.app/zaiko/icon.png"
+icon: "hana-org.vercel.app/zaiko/icon.png"
 desc: |
   A simple app to manage your inventory.
 
@@ -25,7 +25,7 @@ desc: |
   All of this from your local machine, with a good looking UI.
 license: "GPLv3"
 author: "org.hana"
-homepage: "https://hana-org.vercel.app/zaiko"
+homepage: "hana-org.vercel.app/zaiko"
 requirements:
   os_ver:
     win: "Windows 7 SP1 or later"
@@ -42,17 +42,17 @@ age_rating:
 telemetry: false
 images:
   - text: Home page with some sample data.
-    link: "https://hana-org.vercel.app/zaiko/home.png"
+    link: "hana-org.vercel.app/zaiko/home.png"
   - text: Dark mode version.
-    link: "https://hana-org.vercel.app/zaiko/home-dark.png"
+    link: "hana-org.vercel.app/zaiko/home-dark.png"
   - text: Create a "SET" (a category wrapping tracked items).
-    link: "https://hana-org.vercel.app/zaiko/new-set.png"
+    link: "hana-org.vercel.app/zaiko/new-set.png"
   - text: Create an ITEM, adding some details to it.
-    link: "https://hana-org.vercel.app/zaiko/new-item.png"
+    link: "hana-org.vercel.app/zaiko/new-item.png"
   - text: Get alerts on items running out.
-    link: "https://hana-org.vercel.app/zaiko/alerts.png"
+    link: "hana-org.vercel.app/zaiko/alerts.png"
   - text: Increment, decrement, or manually set stock data.
-    link: "https://hana-org.vercel.app/zaiko/increment-stock.png"
+    link: "hana-org.vercel.app/zaiko/increment-stock.png"
   - text: Tweak settings like theme or alert thresholds, or export data.
-    link: "https://hana-org.vercel.app/zaiko/settings.png"
+    link: "hana-org.vercel.app/zaiko/settings.png"
 accent: "#163489"

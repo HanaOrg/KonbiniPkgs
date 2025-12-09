@@ -17,8 +17,8 @@ desc: "Free and open source software for video recording and live streaming."
 license: "GPLv2"
 author: "org.obsproject"
 icon: null
-homepage: "https://obsproject.com/"
-docs: "https://obsproject.com/kb/"
+homepage: "obsproject.com/"
+docs: "obsproject.com/kb/"
 categories:
   - "PRODUCTION"
 age_rating:
@@ -27,5 +27,5 @@ age_rating:
   substances: false
   violence: false
 telemetry: false
-privacy: https://obsproject.com/privacy-policy
+privacy: obsproject.com/privacy-policy
 accent: "#256eff" # not from logo, but from website

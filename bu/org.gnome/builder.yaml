@@ -14,23 +14,23 @@ platforms:
   win64: null
   linux64: "fpak:org.gnome.Builder"
   linuxArm: "fpak:org.gnome.Builder"
-icon: https://dl.flathub.org/media/org/gnome/Builder/24285d38b5d86c8194be26c5de891376/icons/128x128/org.gnome.Builder.png
+icon: dl.flathub.org/media/org/gnome/Builder/24285d38b5d86c8194be26c5de891376/icons/128x128/org.gnome.Builder.png
 images:
   - text: Debug with the GNU debugger
-    link: https://dl.flathub.org/media/org/gnome/Builder/24285d38b5d86c8194be26c5de891376/screenshots/image-1_orig.webp
+    link: dl.flathub.org/media/org/gnome/Builder/24285d38b5d86c8194be26c5de891376/screenshots/image-1_orig.webp
   - text: Quickly access your projects
-    link: https://dl.flathub.org/media/org/gnome/Builder/24285d38b5d86c8194be26c5de891376/screenshots/image-2_orig.webp
+    link: dl.flathub.org/media/org/gnome/Builder/24285d38b5d86c8194be26c5de891376/screenshots/image-2_orig.webp
   - text: Create new projects from a variety of templates
-    link: https://dl.flathub.org/media/org/gnome/Builder/24285d38b5d86c8194be26c5de891376/screenshots/image-3_orig.webp
+    link: dl.flathub.org/media/org/gnome/Builder/24285d38b5d86c8194be26c5de891376/screenshots/image-3_orig.webp
   - text: Integration with Git to clone your projects
-    link: https://dl.flathub.org/media/org/gnome/Builder/24285d38b5d86c8194be26c5de891376/screenshots/image-4_orig.webp
+    link: dl.flathub.org/media/org/gnome/Builder/24285d38b5d86c8194be26c5de891376/screenshots/image-4_orig.webp
   - text: The source code editor
-    link: https://dl.flathub.org/media/org/gnome/Builder/24285d38b5d86c8194be26c5de891376/screenshots/image-5_orig.webp
+    link: dl.flathub.org/media/org/gnome/Builder/24285d38b5d86c8194be26c5de891376/screenshots/image-5_orig.webp
   - text: Fast global fuzzy search
-    link: https://dl.flathub.org/media/org/gnome/Builder/24285d38b5d86c8194be26c5de891376/screenshots/image-6_orig.webp
+    link: dl.flathub.org/media/org/gnome/Builder/24285d38b5d86c8194be26c5de891376/screenshots/image-6_orig.webp
   - text: Use the minimap to see more of the file
-    link: https://dl.flathub.org/media/org/gnome/Builder/24285d38b5d86c8194be26c5de891376/screenshots/image-7_orig.webp
-homepage: https://apps.gnome.org/Builder
-docs: https://builder.readthedocs.io
-repo: null
+    link: dl.flathub.org/media/org/gnome/Builder/24285d38b5d86c8194be26c5de891376/screenshots/image-7_orig.webp
+homepage: apps.gnome.org/Builder
+docs: builder.readthedocs.io
+repo: url:gitlab.gnome.org/GNOME/gnome-builder
 author: org.gnome

@@ -14,27 +14,27 @@ platforms:
   win64: null
   linux64: "fpak:net.gpro.gproapp"
   linuxArm: "fpak:net.gpro.gproapp"
-icon: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/icons/128x128/net.gpro.gproapp.png
+icon: dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/icons/128x128/net.gpro.gproapp.png
 images:
   - text: Race view
-    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-1_orig.webp
+    link: dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-1_orig.webp
   - text: Race view of a different track
-    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-2_orig.webp
+    link: dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-2_orig.webp
   - text: Fine tuning the car setup during practice laps
-    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-3_orig.webp
+    link: dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-3_orig.webp
   - text: "Driver profile showing his skillset, training options, contract, history and more"
-    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-4_orig.webp
+    link: dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-4_orig.webp
   - text: Matching your car and setup to the track characteristics is key to scoring a fast lap
-    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-5_orig.webp
+    link: dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-5_orig.webp
   - text: Updating your car components after every race keeps the technical problems away
-    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-6_orig.webp
+    link: dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-6_orig.webp
   - text: Make your ride more colorful and enjoyable with a wide selection of repaintable helmets
-    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-7_orig.webp
+    link: dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-7_orig.webp
   - text: Make your ride more colorful and enjoyable with a wide selection of car liveries
-    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-8_orig.webp
+    link: dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-8_orig.webp
   - text: Keep an eye on the grid and pace of your opponents to anticipate their strategy before the race
-    link: https://dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-9_orig.webp
-homepage: https://gpro.net
-docs: https://gpro.net/help.asp
+    link: dl.flathub.org/media/net/gpro/gproapp/5f8ec09778c77842e9c35758c558df64/screenshots/image-9_orig.webp
+homepage: gpro.net
+docs: gpro.net/help.asp
 repo: null
 author: org.gpro

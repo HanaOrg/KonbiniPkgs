@@ -7,13 +7,13 @@ name: Marknote
 author: org.kde
 type: gui
 slogan: Write down your thoughts
-homepage: https://apps.kde.org/marknote
-icon: https://apps.kde.org/app-icons/org.kde.marknote.svg
+homepage: apps.kde.org/marknote
+icon: apps.kde.org/app-icons/org.kde.marknote.svg
 desc: >
   Marknote lets you create rich text notes and easily organise them into notebooks. You can personalise your notebooks by choosing an icon and accent color for each one, making it easy to distinguish between them and keep your notes at your fingertips. Your notes are saved as Markdown files in your Documents folder, making it easy to use your notes outside of Marknote as well as inside the app.
 images:
   - text: "Marknote"
-    link: "https://cdn.kde.org/screenshots/marknote/marknote.png"
+    link: "cdn.kde.org/screenshots/marknote/marknote.png"
 categories:
   - PRODUCTIVITY
 age_rating:
