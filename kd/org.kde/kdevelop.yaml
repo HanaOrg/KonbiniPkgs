@@ -41,6 +41,6 @@ platforms:
   linuxArm: fpak:org.kde.kdevelop
   mac64: null
   macArm: null
-  win64: null
+  win64: cho:kdevelop
 telemetry: false
 accent: "#4ec780"

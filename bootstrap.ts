@@ -179,6 +179,6 @@ writeFileSync(
       null,
       2,
     ),
-); //com.github.hugolabe.Wike
+);
 
 export {};

@@ -93,8 +93,8 @@ repository: gh:KDE/kate
 platforms:
   linux64: fpak:org.kde.kate
   linuxArm: fpak:org.kde.kate
-  mac64: null
-  macArm: null
-  win64: null
+  mac64: brew-k:kate
+  macArm: brew-k:kate
+  win64: cho:kate
 telemetry: false
 accent: "#13a9ff"

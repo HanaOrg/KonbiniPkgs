@@ -43,8 +43,8 @@ repository: gh:KDE/kdenlive
 platforms:
   linux64: fpak:org.kde.kdenlive
   linuxArm: fpak:org.kde.kdenlive
-  mac64: null
-  macArm: null
+  mac64: brew-k:kdenlive
+  macArm: brew-k:kdenlive
   win64: null
 telemetry: false
 accent: "#527eb2"
